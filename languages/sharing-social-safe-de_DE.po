@@ -1,0 +1,2415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeliBu WP Sharing Social Safe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 22:41+0100\n"
+"PO-Revision-Date: 2017-02-14 23:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class.MelibuBackendAbstract.php:166
+msgid "Phonenumber"
+msgstr "Telefonnummer"
+
+#: ../classes/class.MelibuBackendMenus.php:30 ../html/docu.php:89
+#: ../html/docu.php:202 ../html/social/dummy_follow.php:41
+#: ../html/social/dummy_share.php:22
+msgid "Short code"
+msgstr "Short code"
+
+#: ../classes/class.MelibuBackendMenus.php:44
+#: ../classes/class.MelibuBackendMenus.php:45 ../html/about.php:118
+#: ../sharing-social-safe.php:72
+msgid "Options"
+msgstr "Optionen"
+
+#: ../classes/class.MelibuBackendMenus.php:92
+#: ../classes/class.MelibuBackendMenus.php:93
+msgid "About"
+msgstr "Über"
+
+#: ../classes/class.MelibuBitly.php:31
+msgid "Connect with bitly"
+msgstr "Mit bitly verbinden"
+
+#: ../classes/class.MelibuFacebook.php:39
+msgid "Connect with Facebook"
+msgstr "Mit Facebook verbinden"
+
+#: ../classes/class.MelibuFollowWidget.php:29
+msgid "A MeliBu WordPress Widget by Professional Developers"
+msgstr "Ein MeliBu WordPress Widget von Professionellen Entwicklern"
+
+#: ../classes/class.MelibuFollowWidget.php:76
+#: ../classes/class.MelibuSocial.php:79 ../classes/class.MelibuSocial.php:277
+msgid "Already"
+msgstr "Bisher"
+
+#: ../classes/class.MelibuFollowWidget.php:76
+#: ../classes/class.MelibuSocial.php:277
+msgid "times followed"
+msgstr "mal gefolgt"
+
+#: ../classes/class.MelibuFollowWidget.php:110
+#: ../classes/class.MelibuFollowWidget.php:212
+#: ../classes/class.MelibuSocial.php:175 ../classes/class.MelibuSocial.php:327
+#: ../html/panel.php:184
+msgid "Powerd by"
+msgstr "Unterstützt von"
+
+#: ../classes/class.MelibuFollowWidget.php:156
+#: ../classes/class.MelibuShareWidget.php:131 ../html/panel/cards.php:86
+#: ../html/panel/cards.php:212 ../html/panel/cards.php:317
+#: ../html/panel/privacy.php:42 ../html/social/message.php:38
+msgid "Title"
+msgstr "Titel"
+
+#: ../classes/class.MelibuFollowWidget.php:161
+msgid "Please fill out your contact information first"
+msgstr "Bitte füllen Sie zuerst Ihre Kontaktinformationen aus"
+
+#: ../classes/class.MelibuFollowWidget.php:219
+#: ../classes/class.MelibuShareWidget.php:154
+msgid "Text & Short Code"
+msgstr "Text & Kurz Code"
+
+#: ../classes/class.MelibuGoogleplus.php:31
+msgid "Connect with Google"
+msgstr "Mit Google verbinden"
+
+#: ../classes/class.MelibuMetaBox.php:47
+msgid "MB Sharing Social Safe"
+msgstr ""
+
+#: ../classes/class.MelibuShareWidget.php:56
+msgid "A MeliBu WordPress Widget by Professionals Developers"
+msgstr "Ein MeliBu WordPress Widget von Professionellen Entwicklern"
+
+#: ../classes/class.MelibuShareWidget.php:137
+msgid "Select"
+msgstr "Wählen"
+
+#: ../classes/class.MelibuShareWidget.php:235
+#: ../classes/class.MelibuShareWidget.php:249
+#: ../classes/class.MelibuShareWidget.php:263
+#: ../classes/class.MelibuShareWidget.php:277
+#: ../classes/class.MelibuShareWidget.php:291
+#: ../classes/class.MelibuShareWidget.php:305
+#: ../classes/class.MelibuShareWidget.php:319
+#: ../classes/class.MelibuShareWidget.php:333
+#: ../classes/class.MelibuShareWidget.php:347
+#: ../classes/class.MelibuShareWidget.php:361
+#: ../classes/class.MelibuShareWidget.php:375
+#: ../classes/class.MelibuShareWidget.php:389
+#: ../classes/class.MelibuShareWidget.php:403
+#: ../classes/class.MelibuShareWidget.php:416
+#: ../classes/class.MelibuSocialAbstract.php:219
+#: ../html/social/dummy_share.php:30 ../html/social/dummy_share.php:41
+#: ../html/social/dummy_share.php:52 ../html/social/dummy_share.php:63
+#: ../html/social/dummy_share.php:74 ../html/social/dummy_share.php:85
+#: ../html/social/dummy_share.php:96 ../html/social/dummy_share.php:107
+#: ../html/social/dummy_share.php:118 ../html/social/dummy_share.php:129
+#: ../html/social/dummy_share.php:140 ../html/social/dummy_share.php:151
+#: ../html/social/dummy_share.php:162 ../html/social/dummy_share.php:173
+msgid "Share on"
+msgstr "Teile auf"
+
+#: ../classes/class.MelibuShareWidget.php:430
+#: ../html/social/dummy_share.php:184
+msgid "Share on Mail"
+msgstr "Teile auf Mail"
+
+#: ../classes/class.MelibuShareWidget.php:444
+#: ../html/social/dummy_share.php:195
+msgid "Share on Print"
+msgstr "Teile auf Papier"
+
+#: ../classes/class.MelibuShareWidget.php:466
+#: ../classes/class.MelibuSocial.php:145
+msgid "Click for more Privacy"
+msgstr "Klicken Sie für mehr Privatsphäre"
+
+#: ../classes/class.MelibuSocial.php:79
+msgid "times divided"
+msgstr "mal geteilt"
+
+#: ../classes/class.MelibuSocial.php:157 ../html/docu.php:71
+#: ../html/docu.php:159 ../html/docu.php:163 ../html/panel.php:45
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: ../classes/class.MelibuSocial.php:162
+msgid "Privacy info Box, insert your own text and linked with a page"
+msgstr ""
+"Privatsphäre-Info-Box, legen Sie Ihren eigenen Text und verknüpft mit einer "
+"Seite"
+
+#: ../classes/class.MelibuSocialAbstract.php:63 ../html/panel/modal.php:5
+#: ../tpl/modal.php:75
+msgid "Share"
+msgstr "Teile"
+
+#: ../classes/class.MelibuSocialAbstract.php:171
+msgid "item"
+msgstr "Betreff"
+
+#: ../classes/class.MelibuSocialLinks.php:419
+#: ../classes/class.MelibuSocialLinks.php:432
+msgid "Very recommendable item:"
+msgstr "Sehr zu empfehlender Artikel:"
+
+#: ../classes/class.MelibuTwitter.php:31
+msgid "Connect with Twitter"
+msgstr "Mit Twitter verbinden"
+
+#: ../classes/pager/class.MelibuClicks.php:115
+msgid "First"
+msgstr "Erste"
+
+#: ../classes/pager/class.MelibuClicks.php:125
+msgid "Back"
+msgstr "Zurück"
+
+#: ../classes/pager/class.MelibuClicks.php:154
+msgid "Go"
+msgstr "Vor"
+
+#: ../classes/pager/class.MelibuClicks.php:163
+msgid "Last"
+msgstr "Letzte"
+
+#: ../classes/pager/class.MelibuClicks.php:179
+msgid "Total Clicks"
+msgstr "Gesamt geklickt"
+
+#: ../classes/pager/class.MelibuClicks.php:180
+msgid "Total Shares"
+msgstr "Gesamt geteilt"
+
+#: ../classes/pager/class.MelibuClicks.php:181
+msgid "Total Follows"
+msgstr "Gesamt gefolgt"
+
+#: ../classes/pager/class.MelibuClicks.php:191
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: ../classes/pager/class.MelibuClicks.php:233
+msgid "Show per page"
+msgstr "Zeige per Seite"
+
+#: ../classes/pager/class.MelibuClicks.php:243
+msgid "All"
+msgstr "Alle"
+
+#: ../classes/pager/class.MelibuClicks.php:244 ../html/panel/social.php:44
+msgid "Shares"
+msgstr "Teilen"
+
+#: ../classes/pager/class.MelibuClicks.php:245
+msgid "Follow"
+msgstr "Folgen"
+
+#: ../classes/pager/class.MelibuClicks.php:249
+msgid "Show"
+msgstr "Zeige"
+
+#: ../classes/pager/class.MelibuClicks.php:257
+msgid "Activate now with"
+msgstr "Aktiviere jetzt mit"
+
+#: ../classes/pager/class.MelibuClicks.php:264
+msgid "You have no clicks"
+msgstr "Sie haben keine klicks"
+
+#: ../classes/pager/class.MelibuClicks.php:270 ../html/social/optional.php:21
+msgid "Plattform"
+msgstr "Plattform"
+
+#: ../classes/pager/class.MelibuClicks.php:271
+msgid "User Agent"
+msgstr "Nutzer Agent"
+
+#: ../classes/pager/class.MelibuClicks.php:273
+msgid "Page Url"
+msgstr "Seiten Url"
+
+#: ../classes/pager/class.MelibuClicks.php:274
+msgid "Page bitly Url"
+msgstr "bitly Url"
+
+#: ../classes/pager/class.MelibuClicks.php:275
+msgid "Share Url"
+msgstr "Geteilte Url"
+
+#: ../classes/pager/class.MelibuClicks.php:276 ../html/panel/cards.php:39
+#: ../html/panel/cards.php:173 ../html/panel/cards.php:298
+msgid "Type"
+msgstr "Typ"
+
+#: ../classes/pager/class.MelibuClicks.php:277
+msgid "Last Click"
+msgstr "Letzter klick"
+
+#: ../classes/pager/class.MelibuClicks.php:278
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../classes/pager/class.MelibuClicks.php:298
+msgid "bitly link found for this Site URL"
+msgstr "bitly link gefunden für diese URL"
+
+#: ../classes/pager/class.MelibuClicks.php:303
+#: ../classes/pager/class.MelibuClicks.php:309
+msgid "No bitly found, activate for check links"
+msgstr "Kein bitly gefunden, aktivieren Sie zum prüfen der links"
+
+#: ../classes/pager/class.MelibuClicks.php:306
+msgid "For follows no bitly support"
+msgstr "Für folgen keine bitly Unterstützung"
+
+#: ../classes/pager/class.MelibuClicks.php:341
+msgid "Page"
+msgstr "Seite"
+
+#: ../classes/pager/class.MelibuClicks.php:341
+msgid "from"
+msgstr "von"
+
+#: ../html/about.php:17
+msgid "Welcome to"
+msgstr "Willkommen zu"
+
+#: ../html/about.php:21 ../html/docu.php:25 ../html/panel.php:196
+msgid "Version"
+msgstr "Version"
+
+#: ../html/about.php:30
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: ../html/about.php:36 ../html/about.php:86
+msgid "Functions"
+msgstr "Funktionen"
+
+#: ../html/about.php:42 ../html/about.php:147 ../html/docu.php:30
+#: ../html/panel.php:90 ../html/panel.php:92
+msgid "Support"
+msgstr "Unterstützung"
+
+#: ../html/about.php:48
+msgid "Development"
+msgstr "Entwicklung"
+
+#: ../html/about.php:54
+msgid "Translation"
+msgstr "Übersetzung"
+
+#: ../html/about.php:60 ../html/about.php:237
+msgid "Donate"
+msgstr "Spenden"
+
+#: ../html/about.php:75
+msgid "More Professional"
+msgstr "Mehr Professionelle"
+
+#: ../html/about.php:75
+msgid "Themes"
+msgstr "Themen"
+
+#: ../html/about.php:75
+msgid "and "
+msgstr "und"
+
+#: ../html/about.php:75
+msgid "Plugins"
+msgstr "Plug-ins"
+
+#: ../html/about.php:89
+msgid "Functionality"
+msgstr "Funktionalität"
+
+#: ../html/about.php:91
+msgid "Requires no 2 click buttons"
+msgstr "Erfordert keine 2 Klicks"
+
+#: ../html/about.php:92
+msgid "Eliminates \"unauthorized\" data transfer to Social Networks"
+msgstr "Eliminiert \"nicht autorisierte\" Datenübertragung auf Social Networks"
+
+#: ../html/about.php:93
+msgid "Secure sharing of their customer"
+msgstr "Sicheres teilen für Ihre Kunden"
+
+#: ../html/about.php:94
+msgid "No special scripts or external applications are loaded"
+msgstr "Keine speziellen Skripte oder externe Anwendungen werden geladen"
+
+#: ../html/about.php:95
+msgid "Less loading time, does your page faster"
+msgstr "Weniger Ladezeit, macht Ihre Seite schneller"
+
+#: ../html/about.php:96
+msgid "Supports bitly short links"
+msgstr "Unterstützt bitly kurz links"
+
+#: ../html/about.php:97
+msgid "Share widget"
+msgstr "Nutzen Sie das Teilen Widget"
+
+#: ../html/about.php:98
+msgid "Follow widget"
+msgstr "Nutze Sie das Folgen widget"
+
+#: ../html/about.php:99
+msgid "Automatically detects the title and describe"
+msgstr "Erkennt automatisch Titel und Beschreibung"
+
+#: ../html/about.php:100
+msgid "Automatically detect for Pinterest"
+msgstr "Automatische Erkennung für Pinterest"
+
+#: ../html/about.php:101
+msgid "Automatically detect for WhatsApp"
+msgstr "Automatische Erkennung für WhatsApp"
+
+#: ../html/about.php:102
+msgid "A lot of selection on social networks"
+msgstr "Jede menge an Sozialen Netzwerken vorhanden"
+
+#: ../html/about.php:103
+msgid "Shortcode on pages, posts and text widgets"
+msgstr ""
+"Verwenden Sie den kurzen Code auf den Seiten, Beiträge und Text-Widgets"
+
+#: ../html/about.php:104
+msgid "Twenty Awesome Designs, choose your style"
+msgstr "Zwanzig fantastische Entwürfe, wählen Sie Ihren Stil"
+
+#: ../html/about.php:105
+msgid "Fully responsive"
+msgstr "Voll Responsive"
+
+#: ../html/about.php:106
+msgid "Share button with modal"
+msgstr "Kurz Teil Link mit Modal"
+
+#: ../html/about.php:107 ../html/about.php:138
+msgid "Share away on the EMail"
+msgstr "Teile per E-Mail"
+
+#: ../html/about.php:108
+msgid "Print page / post"
+msgstr "Teile auf Papier"
+
+#: ../html/about.php:109
+msgid "Privacy Infobox"
+msgstr "Datenschutz Infobox"
+
+#: ../html/about.php:110
+msgid "Content before / after short share link"
+msgstr "Kurz teil link vor / nach Inhalt"
+
+#: ../html/about.php:111
+msgid "Statistics overview"
+msgstr "Statistiken Überblick"
+
+#: ../html/about.php:112
+msgid "Show total clicks"
+msgstr "Zeige gesamt klicks"
+
+#: ../html/about.php:113
+msgid "Show share clicks"
+msgstr "Zeige geteilte klicks"
+
+#: ../html/about.php:114
+msgid "Show follow clicks"
+msgstr "Zeige gefolgte klicks"
+
+#: ../html/about.php:120
+msgid "Choose your layout (One-Click)"
+msgstr "Wählen Sie Ihr Layout (Ein-Klick)"
+
+#: ../html/about.php:121
+msgid ""
+"Shortcode to share on the simplest way all (with shortcode in WP Rich Text "
+"Editor)"
+msgstr ""
+"Shortcode für einfaches teilen aller Seiten (mit Shortcode in WP-Rich-Text-"
+"Editor)"
+
+#: ../html/about.php:122
+msgid "Widgets (to share on the very simplest way all)"
+msgstr "Widgets (um auf sehr einfachste Weise alles zu teilen)"
+
+#: ../html/about.php:123
+msgid "Optional inform the customer about your privacy policy"
+msgstr "Informieren Sie den Kunden über die Datenschutzerklärung "
+
+#: ../html/about.php:124
+msgid "Optional parameters that are available to him"
+msgstr "Verwenden Sie optionale Parameter, die Ihn zur Verfügung stehen"
+
+#: ../html/about.php:125
+msgid "Optional Content before / after short share link"
+msgstr "Kurz teil link vor / nach Inhalt"
+
+#: ../html/about.php:126
+msgid "Optional activate bitly interface"
+msgstr "Optionale bitly aktivieren"
+
+#: ../html/about.php:127
+msgid "Optional show/hide Copyright"
+msgstr "Optional Anzeigen/Ausblenden Melibu Copyright"
+
+#: ../html/about.php:128
+msgid "Optional show/hide Privacy Box"
+msgstr "Optional Anzeigen/Ausblenden Datenschutz box"
+
+#: ../html/about.php:129
+msgid "Optional show/hide Share Counts"
+msgstr "Optional Anzeigen/Ausblenden Anzahl geteilt"
+
+#: ../html/about.php:130
+msgid "Optional show/hide additional FontAwesome"
+msgstr "FontAwesome nach bedarf"
+
+#: ../html/about.php:131
+msgid "Delete click from Statistics"
+msgstr "Entfernen Sie Klicks von den Statistiken"
+
+#: ../html/about.php:135
+msgid "Extras"
+msgstr "Extras"
+
+#: ../html/about.php:137
+msgid "Supports"
+msgstr "Unterstützt"
+
+#: ../html/about.php:139
+msgid "Print and share"
+msgstr "Drucken und Teilen"
+
+#: ../html/about.php:151
+msgid "In like please give"
+msgstr "Bei gefallen bitte"
+
+#: ../html/about.php:154
+msgid "WordPress Rate"
+msgstr "WordPress Bewertung"
+
+#: ../html/about.php:168
+msgid ""
+"Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr ""
+"Fühlen Sie sich frei und posten Sie Ihre Fragen, Anregungen, Ideen oder "
+"Kritik. Wir lieben es!"
+
+#: ../html/about.php:170
+msgid "For Plugin English Support"
+msgstr "Für Englischen Plug-in Support"
+
+#: ../html/about.php:171
+msgid "Support EN"
+msgstr "Unterstützung EN"
+
+#: ../html/about.php:173
+msgid "For Plugin German Support"
+msgstr "Für Deutschen Plug-in Support"
+
+#: ../html/about.php:174
+msgid "Support DE"
+msgstr "Unterstützung DE"
+
+#: ../html/about.php:176
+msgid "For Plugin Turkey Support"
+msgstr "Für Plug-in Türkische Unterstützung"
+
+#: ../html/about.php:177
+msgid "Support TR"
+msgstr "Unterstützung TR"
+
+#: ../html/about.php:186
+msgid "Development "
+msgstr "Entwicklung"
+
+#: ../html/about.php:190 ../html/panel/cards.php:349
+msgid "Author"
+msgstr "Autor"
+
+#: ../html/about.php:195
+msgid "Founder and Project Manager"
+msgstr "Gründer und Projektleiter"
+
+#: ../html/about.php:201
+msgid "Contributors"
+msgstr "Mitwirkende"
+
+#: ../html/about.php:206
+msgid "Economic Computer Science"
+msgstr "Wirtschaftsinformatik "
+
+#: ../html/about.php:211
+msgid "Marketing"
+msgstr "Marketing"
+
+#: ../html/about.php:217
+msgid "Developer"
+msgstr "Entwickler"
+
+#: ../html/about.php:228
+msgid "Thanks all Translaters"
+msgstr "Dank alle Übersetzer"
+
+#: ../html/about.php:230
+msgid "Translate this Plugin"
+msgstr "Übersetzen dieses Plugin"
+
+#: ../html/about.php:230
+msgid "Translate"
+msgstr "Übersetzen"
+
+#: ../html/about.php:239
+msgid "Development is fueled by your praise and feedback"
+msgstr "Die Entwicklung wird angetrieben durch Ihr Lob und Feedback"
+
+#: ../html/about.php:243
+msgid ""
+"In how you can support us so that we can further develop this plugin "
+"regularly, it may not always be financially, so you will give us feedback or "
+"recommend us, please give us a review, Liken our Facebook page or sponsor "
+"us, so that we further useful free plugins can develop."
+msgstr ""
+"In wie Sie uns unterstützen können, damit wir regelmäßig dieses Plugin "
+"weiterentwickeln können, es muss nicht immer finanziell sein, deshalb geben "
+"Sie uns Feedback oder empfehlen Sie uns, geben Sie uns eine Bewertung, Liken "
+"Sie unsere Facebook Seite oder Sponsoren Sie uns, damit wir weitere "
+"nützliche kostenlose Plugins entwickeln können. "
+
+#: ../html/about.php:246
+msgid ""
+"You see, it is much more possible if you want to support something, thanks "
+"to all the Support Us."
+msgstr ""
+"Sie sehen, es ist viel mehr möglich, wenn Sie etwas unterstützen wollen, "
+"Dank an alle die uns Unterstützen. "
+
+#: ../html/about.php:252
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr "Jetzt einfach, schnell und sicher Online bezahlen - mit PayPal."
+
+#: ../html/about.php:256
+msgid "LOOK FOR SPONSOR !!!"
+msgstr "SUCHEN SPONSOR"
+
+#: ../html/about.php:259
+msgid "Your Melibu Team"
+msgstr "Dein Melibu Team"
+
+#: ../html/docu.php:19
+msgid "Professional Themes and Plugins for WordPress"
+msgstr "Professionelle Themen und Plugins für WordPress"
+
+#: ../html/docu.php:27 ../html/panel.php:86
+msgid "Rate"
+msgstr "Bewerten"
+
+#: ../html/docu.php:28 ../html/panel.php:72
+msgid "Changelog"
+msgstr "Änderungsprotokoll"
+
+#: ../html/docu.php:29
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../html/docu.php:41
+msgid "This documentation should help you"
+msgstr "Diese Dokumentation soll Ihnen helfen"
+
+#: ../html/docu.php:53
+msgid "Start"
+msgstr "Beginn"
+
+#: ../html/docu.php:59 ../html/panel/appearance.php:32
+msgid "Design"
+msgstr "Aussehen"
+
+#: ../html/docu.php:65 ../html/docu.php:148 ../html/panel.php:78
+#: ../html/panel.php:80 ../html/panel.php:84
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: ../html/docu.php:77 ../html/panel.php:36 ../html/panel/optional.php:6
+msgid "Optional"
+msgstr "Optional"
+
+#: ../html/docu.php:83 ../html/docu.php:164 ../html/docu.php:181
+#: ../html/panel.php:54 ../html/panel/settings.php:3
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../html/docu.php:104
+msgid "To use Melibu WP Sharing Social Safe properly"
+msgstr "So verwenden Sie Melibu WP Sharing Social Safe richtig"
+
+#: ../html/docu.php:105
+msgid "Melibu WP Sharing Social Safe"
+msgstr "Melibu WP Sharing Social Safe"
+
+#: ../html/docu.php:106
+msgid "Thank you that you use MeliBu WP Sharing Social Safe"
+msgstr "Vielen Dank, dass Sie MeliBu WP Sharing Social Safe verwenden"
+
+#: ../html/docu.php:107
+msgid ""
+"Protects you and access your users against unauthorized, it was specifically "
+"designed"
+msgstr ""
+"Schützt Sie und Ihre Benutzer gegen unautorisierten zugriff, es wurde "
+"speziell dafür entwickelt"
+
+#: ../html/docu.php:108
+msgid ""
+"We offer you a bitly interface to share your shared pages and posts faster "
+"than backlinks and get information, you can see how often the split link was "
+"clicked and much more"
+msgstr ""
+"Wir bieten dir eine bitly Schnittstelle damit deine geteilten Seiten und "
+"Beiträge schneller als back links verteilt werden und du Informationen "
+"erhälts, du kannst sehen wie oft der geteilte link geklickt wurde und vieles "
+"mehr"
+
+#: ../html/docu.php:116
+msgid "Let's start now with the button designs"
+msgstr "Lassen Sie uns mit dem Button selbst starten"
+
+#: ../html/docu.php:117 ../html/panel/appearance.php:67
+msgid "Layout"
+msgstr "Gestaltung"
+
+#: ../html/docu.php:118
+msgid ""
+"First you have the opportunity to select a predefined template, in the free "
+"version are these"
+msgstr ""
+"Sie haben zunächst die Möglichkeit, eine vor definierte Vorlage auszuwählen, "
+"in der kostenlosen Version sind diese"
+
+#: ../html/docu.php:120
+msgid "MB One Button"
+msgstr "MB One Button"
+
+#: ../html/docu.php:121
+msgid "MB Glow"
+msgstr "MB Strahlend"
+
+#: ../html/docu.php:122
+msgid "MB Glow Dark"
+msgstr "MB Strahlend Dunkel"
+
+#: ../html/docu.php:123
+msgid "MB Special Overlap"
+msgstr "MB Spezial Überlappend"
+
+#: ../html/docu.php:124
+msgid "MB Shining Dark Short"
+msgstr "MB Glänzendes Dunkel"
+
+#: ../html/docu.php:125
+msgid "MB Glow Semicircle"
+msgstr "MB Strahlend Halbrund"
+
+#: ../html/docu.php:126
+msgid "MB Glow Circle"
+msgstr "MB Strahlend Rund"
+
+#: ../html/docu.php:127
+msgid "MB Flat"
+msgstr "MB Flach"
+
+#: ../html/docu.php:128
+msgid "MB Flat Smooth"
+msgstr "MB Flach Glatt"
+
+#: ../html/docu.php:129
+msgid "MB Flat Smooth Dark"
+msgstr "MB Flach Glatt Dunkel"
+
+#: ../html/docu.php:130
+msgid "MB Flat Semicircle"
+msgstr "MB Flach Halbrund"
+
+#: ../html/docu.php:131
+msgid "MB Flat Semicircle Smooth"
+msgstr "MB Flach Halbrund Glatt"
+
+#: ../html/docu.php:132
+msgid "MB Flat Circle Smooth"
+msgstr "MB Flach Rund Glatt"
+
+#: ../html/docu.php:133
+msgid "MB Flat Circle Switch"
+msgstr "MB Flacher Kreisschalter"
+
+#: ../html/docu.php:134
+msgid "MB Flat Long (Default)"
+msgstr "MB Flach Lang (Standard)"
+
+#: ../html/docu.php:135
+msgid "MB Flat Long Rotate Icon"
+msgstr "MB Flach Lang Drehsymbol"
+
+#: ../html/docu.php:136
+msgid "MB Long Rounded"
+msgstr "MB Flach Lang Abgerundet"
+
+#: ../html/docu.php:137
+msgid "MB Shining Dark"
+msgstr "MB Glänzendes Dunkel"
+
+#: ../html/docu.php:138
+msgid "MB Shining Dark Line"
+msgstr "MB Glänzendes Dunkel Linie"
+
+#: ../html/docu.php:139
+msgid "MB Flat Full Width"
+msgstr "MB Flach volle Breite"
+
+#: ../html/docu.php:141
+msgid "Select your social button"
+msgstr "Wählen Sie Ihren Social Button"
+
+#: ../html/docu.php:149
+msgid "Share and Follow stats"
+msgstr "Teilen und Folgen Statistik"
+
+#: ../html/docu.php:151
+msgid "An overview with different data shared/followed and tracked events"
+msgstr ""
+"Eine Übersicht mit verschiedenen geteilten / gefolgten Daten und verfolgten "
+"Ereignissen"
+
+#: ../html/docu.php:152 ../html/docu.php:195
+msgid "Set it"
+msgstr "Stellen Sie es ein"
+
+#: ../html/docu.php:160
+msgid ""
+"Share buttons prevent all automatically unauthorized access to your website, "
+"no third party data is transferred unless you clicked"
+msgstr ""
+"Sozialen teil Buttons verhindern, dass alle automatisch unbefugten Zugriff "
+"auf Ihre Website, keine Daten von Dritten übertragen werden, wenn Sie nicht "
+"geklickt haben"
+
+#: ../html/docu.php:161
+msgid "Refer to Privacy Policy"
+msgstr "Siehe Datenschutzrichtlinie"
+
+#: ../html/docu.php:162
+msgid ""
+"The privacy box is only intended for information purposes to your users, if "
+"they so wish"
+msgstr ""
+"Die Privatsphäre ist nur für informative Zwecke für Ihre Benutzer, wenn sie "
+"dies wünschen"
+
+#: ../html/docu.php:171 ../html/docu.php:174
+msgid "Optionals"
+msgstr "Zubehör"
+
+#: ../html/docu.php:172
+msgid "Optional parameters"
+msgstr "Verwenden Sie optionale Parameter, die Ihn zur Verfügung stehen"
+
+#: ../html/docu.php:173
+msgid ""
+"These parameters are optional and do not have to be filled in, however, they "
+"can be used and serve as information purposes"
+msgstr ""
+"Diese Parameter sind optional und müssen nicht ausgefüllt werden, sie können "
+"jedoch genutzt werden und dienen als Informationszwecke"
+
+#: ../html/docu.php:182
+msgid "Show how often was shared"
+msgstr "Zeige wie oft geteilt wurde"
+
+#: ../html/docu.php:184
+msgid ""
+"Each link is counted automatically when it is clicked, so you can track "
+"everything and stay up-to-date"
+msgstr ""
+"Jeder Link wird automatisch gezählt, wenn er angeklickt wird, so dass Sie "
+"alles verfolgen und auf dem Laufenden bleiben können"
+
+#: ../html/docu.php:185 ../html/docu.php:192
+msgid "Activate it"
+msgstr "Aktivieren"
+
+#: ../html/docu.php:191
+msgid ""
+"And this is not enough, we offer bitly as an additional option. You can "
+"continue with bitly the split links still further and see thus statistics of "
+"the links which have landed on the social networks and be clicked. So he "
+"does not miss anything and you know about every link"
+msgstr ""
+"Und damit nicht genug, bieten wir bitly als Zusatz Option an. Sie können mit "
+"bitly die geteilten links noch weiter verfolgen und sehen so Statistiken der "
+"links die auf den sozialen Netzwerken gelandet sind und geklickt werden. "
+"Somit entgeht Ihn nichts mehr und Sie wissen über jeden link bescheid"
+
+#: ../html/docu.php:194
+msgid "You can make and optimize with many various settings"
+msgstr "Sie können viele verschiedenen Einstellungen vornehmen und optimieren"
+
+#: ../html/docu.php:203
+msgid ""
+"Use the short code in your WP Editor for set your shares/follows or copy, "
+"paste and set manually"
+msgstr ""
+"Verwenden Sie den kurz Code in Ihrem WP-Editor für teilten/verfolgen oder "
+"Kopieren, Einfügen und manuell einstellen"
+
+#: ../html/docu.php:208
+msgid ""
+"Without this shortcode does not share or follow the old version should be "
+"replaced if possible by the latest. Both versions work but could be a fault "
+"occur when another plugin also the name download has a shortcode"
+msgstr ""
+"Ohne diesen kurz Code funktioniert kein download, die alte Version sollte "
+"falls möglich ersetzt werden durch die neueste. Beide Varianten "
+"funktionieren jedoch könnte ein Fehler auftreten wenn ein anderes Plug-in "
+"auch den Name download als kurz Code besitzt"
+
+#: ../html/docu.php:213
+msgid ""
+"With the share parameter you can specify which social networks are to be "
+"listed for tracking on the respective networks"
+msgstr ""
+"Mit dem Freigabeparameter können Sie festlegen, welche sozialen Netzwerke "
+"für die Verfolgung in den jeweiligen Netzwerken aufgelistet werden sollen"
+
+#: ../html/docu.php:218
+msgid ""
+"With the follow parameter, you can specify which social networks are listed "
+"for tracking on the respective networks"
+msgstr ""
+"Mit dem folgenden Parameter können Sie festlegen, welche sozialen Netzwerke "
+"für die Verfolgung in den jeweiligen Netzwerken aufgeführt sind"
+
+#: ../html/docu.php:225
+msgid ""
+"That is the SHARE short code. You can copy a short code and place on a page, "
+"post or in a widget. Or use the short code has been integrated into your "
+"editor, a click is enough and the part buttons after save visible"
+msgstr ""
+"Das ist der Kurzcode. Sie können einen Kurzcode auf einer Seite, ein Beitrag "
+"oder in einem widget platzieren. Oder Sie können den Kurzcode verwenden der "
+"in Ihrem Editor integriert ist, ein Klick genügt und der Kurzcode wird "
+"platziert."
+
+#: ../html/docu.php:229 ../html/docu.php:237
+msgid "Please take the short code double click to copy"
+msgstr "Bitte nehmen Sie die Abkürzung Doppelklick um zu kopieren"
+
+#: ../html/docu.php:233
+msgid ""
+"That is the FOLLOW short code. You can copy a short code and place on a "
+"page, post or in a widget. Or use the short code has been integrated into "
+"your editor, a click is enough and the part buttons after save visible"
+msgstr ""
+"Das ist der Kurzcode. Sie können einen kurzen Code auf einer Seite, per Post "
+"oder in einem Widget einsetzen. Oder der Sie können den Kurz Code in Ihrem "
+"Editor verwenden, ein Klick genügt und der Kurz Code wird in Ihr Textfeld "
+"eingefügt."
+
+#: ../html/docu.php:241
+msgid "You can set for the short code standard settings"
+msgstr "Sie können die Standardeinstellungen für den Kurz code festlegen"
+
+#: ../html/docu.php:242
+msgid "Set it now"
+msgstr "Stellen Sie es jetzt ein"
+
+#: ../html/docu.php:254
+msgid "Use Short code in WP Editor"
+msgstr "Verwenden Sie den kurz Code im WP-Editor"
+
+#: ../html/docu.php:255
+msgid "Take your part to put the buttons shortcode in WP editor Melibu"
+msgstr "Wählen Sie den kurz code im WP Editor Melibu"
+
+#: ../html/docu.php:260
+msgid "Use Follow Widget"
+msgstr "Nutze Folgen widget"
+
+#: ../html/docu.php:261
+msgid "Use the Social follow widget to close attention"
+msgstr "Verwenden Sie die Social Follow Widget, um Aufmerksamkeit zu bekommen"
+
+#: ../html/other/bitly.php:19 ../html/other/copy.php:23
+#: ../html/other/facebook.php:17 ../html/other/fontawesome.php:23
+#: ../html/other/googleplus.php:17 ../html/other/twitter.php:17
+#: ../html/panel/cards.php:102 ../html/panel/cards.php:228
+#: ../html/panel/cards.php:333 ../html/social/message.php:16
+#: ../html/social/share.php:48 ../html/social/share.php:126
+#: ../html/social/share.php:184
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../html/other/bitly.php:20 ../html/other/copy.php:24
+#: ../html/other/facebook.php:18 ../html/other/fontawesome.php:24
+#: ../html/other/googleplus.php:18 ../html/other/twitter.php:18
+#: ../html/social/share.php:49 ../html/social/share.php:127
+#: ../html/social/share.php:185
+msgid "Setting"
+msgstr "Einstellung"
+
+#: ../html/other/bitly.php:21 ../html/other/copy.php:25
+#: ../html/other/facebook.php:19 ../html/other/fontawesome.php:25
+#: ../html/other/googleplus.php:19 ../html/other/twitter.php:19
+#: ../html/social/share.php:50 ../html/social/share.php:128
+#: ../html/social/share.php:186
+msgid "Example"
+msgstr "Beispiel"
+
+#: ../html/other/bitly.php:31 ../html/other/facebook.php:29
+#: ../html/other/googleplus.php:29 ../html/other/twitter.php:29
+msgid "Here you can disable/enable"
+msgstr "Hier Sie können aktivieren/deaktivieren"
+
+#: ../html/other/bitly.php:32
+msgid ""
+"You also have to remember that the activated shortcodes are automatically "
+"registered as a link in bitly, even if you have not clicked on, so if you "
+"clicked, the bitly url will be used"
+msgstr ""
+"Sie müssen auch bedenken das nach dem aktivieren automatisch die gesetzten "
+"kurz Code als ein link bei bitly erfasst werden, auch wenn Sie noch nicht "
+"angeklickt wurden, damit wenn Sie angeklickt werden auch gleich die bitly "
+"url zum Einsatz kommt"
+
+#: ../html/other/bitly.php:33 ../html/other/facebook.php:30
+#: ../html/other/fontawesome.php:31 ../html/other/googleplus.php:30
+#: ../html/other/twitter.php:30
+msgid "More information about"
+msgstr "Mehr information über"
+
+#: ../html/other/bitly.php:37
+msgid "Click here to authorize using your bitly account"
+msgstr "Klicken Sie hier, um mit Ihrem bitly  Konto zu autorisieren"
+
+#: ../html/other/bitly.php:45
+msgid "bitly not connected"
+msgstr "Bitly nicht verbunden"
+
+#: ../html/other/bitly.php:50 ../html/other/facebook.php:49
+#: ../html/other/googleplus.php:49 ../html/other/twitter.php:49
+msgid "Error"
+msgstr "Fehler"
+
+#: ../html/other/bitly.php:61 ../html/other/facebook.php:64
+#: ../html/other/googleplus.php:64 ../html/other/twitter.php:64
+msgid "Access Token"
+msgstr "Zugangstoken"
+
+#: ../html/other/bitly.php:72
+msgid "bitly connected"
+msgstr "bitly verbunden"
+
+#: ../html/other/bitly.php:84 ../html/other/copy.php:42
+#: ../html/other/facebook.php:80 ../html/other/fontawesome.php:42
+#: ../html/other/googleplus.php:80 ../html/other/twitter.php:80
+#: ../html/panel/cards.php:30 ../html/panel/cards.php:164
+#: ../html/panel/cards.php:289 ../html/panel/cards.php:375
+#: ../html/panel/cards.php:399 ../html/panel/modal.php:49
+#: ../html/social/share.php:85 ../html/social/share.php:107
+#: ../html/social/share.php:144 ../html/social/share.php:165
+#: ../html/social/share.php:202
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: ../html/other/bitly.php:84 ../html/other/copy.php:42
+#: ../html/other/facebook.php:80 ../html/other/fontawesome.php:42
+#: ../html/other/googleplus.php:80 ../html/other/twitter.php:80
+#: ../html/panel/cards.php:30 ../html/panel/cards.php:164
+#: ../html/panel/cards.php:289 ../html/panel/cards.php:375
+#: ../html/panel/cards.php:399 ../html/panel/modal.php:49
+#: ../html/social/share.php:85 ../html/social/share.php:107
+#: ../html/social/share.php:144 ../html/social/share.php:165
+#: ../html/social/share.php:202
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: ../html/other/bitly.php:87
+msgid "Enable to check on bitly how often your backlinks clicked"
+msgstr ""
+"Aktivieren Sie, um zu überprüfen, wie oft Ihre Backlinks geklickt wurden"
+
+#: ../html/other/bitly.php:102 ../html/other/copy.php:52
+#: ../html/other/facebook.php:87 ../html/other/fontawesome.php:52
+#: ../html/other/googleplus.php:87 ../html/other/twitter.php:87
+#: ../html/panel/cards.php:9 ../html/panel/cards.php:413
+#: ../html/panel/customcss.php:13 ../html/panel/customcss.php:32
+#: ../html/panel/display.php:9 ../html/panel/display.php:42
+#: ../html/panel/modal.php:8 ../html/panel/modal.php:59
+#: ../html/panel/optional.php:14 ../html/panel/optional.php:168
+#: ../html/panel/privacy.php:29 ../html/panel/privacy.php:75
+#: ../html/panel/social.php:8 ../html/panel/social.php:137
+#: ../html/social/message.php:49 ../html/social/optional.php:147
+#: ../html/social/share.php:117 ../html/social/share.php:175
+#: ../html/social/share.php:212 ../html/social/youtube.php:25
+msgid "Save"
+msgstr "Speichern"
+
+#: ../html/other/copy.php:29
+msgid "Support us"
+msgstr "Unterstützen Sie uns"
+
+#: ../html/other/copy.php:30 ../html/other/fontawesome.php:30
+msgid "Here you can show/hide"
+msgstr "Hier können Sie Anzeigen/Ausblenden"
+
+#: ../html/other/copy.php:31
+msgid "Please activate this to help us, for share this plugin"
+msgstr ""
+"Bitte aktivieren Sie diese Option, um uns zu helfen das Plugin zu verbreiten"
+
+#: ../html/other/facebook.php:36
+msgid "Click here to authorize using your facebook account"
+msgstr "Klicken Sie hier, um mit Ihrem Facebook Account zu autorisieren"
+
+#: ../html/other/facebook.php:44
+msgid "facebook not connected"
+msgstr "Facebook nicht verbunden"
+
+#: ../html/other/facebook.php:56
+msgid "facebook connected"
+msgstr "Facebook verbunden"
+
+#: ../html/other/facebook.php:83
+msgid "Enable to check on facebook how often your backlinks clicked"
+msgstr ""
+"Aktivieren Sie auf Facebook überprüfen, wie oft Ihre Backlinks geklickt "
+"wurden"
+
+#: ../html/other/googleplus.php:36
+msgid "Click here to authorize using your google+ account"
+msgstr "Klicken Sie hier, um die Nutzung Ihres Google+ Kontos zu autorisieren"
+
+#: ../html/other/googleplus.php:44
+msgid "google not connected"
+msgstr "Google nicht verbunden"
+
+#: ../html/other/googleplus.php:56
+msgid "google connected"
+msgstr "Google verbunden"
+
+#: ../html/other/googleplus.php:83
+msgid "Enable to check on google plus how often your backlinks clicked"
+msgstr ""
+"Aktivieren Sie auf Google zu überprüfen, wie oft Ihre Backlinks geklickt "
+"wurden"
+
+#: ../html/other/twitter.php:36
+msgid "Click here to authorize using your twitter account"
+msgstr "Klicken Sie hier, um mit Ihrem Twitter-Konto zu autorisieren"
+
+#: ../html/other/twitter.php:44
+msgid "twitter not connected"
+msgstr "Twitter nicht verbunden"
+
+#: ../html/other/twitter.php:56
+msgid "twitter connected"
+msgstr "Twitter verbunden"
+
+#: ../html/other/twitter.php:83
+msgid "Enable to check on twitter how often your backlinks clicked"
+msgstr ""
+"Aktivieren Sie auf Twitter zu überprüfen, wie oft Ihre Backlinks geklickt "
+"wurden"
+
+#: ../html/panel.php:27 ../html/panel/dashboard.php:3
+msgid "Dashboard"
+msgstr "Instrumententafel"
+
+#: ../html/panel.php:30 ../html/panel/display.php:3
+msgid "Display"
+msgstr "Anzeigen"
+
+#: ../html/panel.php:33 ../html/panel/appearance.php:30
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: ../html/panel.php:39 ../html/panel/social.php:3
+msgid "Social"
+msgstr "Sozial"
+
+#: ../html/panel.php:42 ../html/panel/modal.php:3
+msgid "Modal"
+msgstr "Modal"
+
+#: ../html/panel.php:48
+msgid "Cards"
+msgstr "Karten"
+
+#: ../html/panel.php:51 ../html/panel/customcss.php:8
+#: ../html/panel/customcss.php:24
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+#: ../html/panel.php:57 ../html/panel/optionsobj.php:3
+#: ../html/panel/optionsobj.php:9
+msgid "Options OBJ"
+msgstr "Optionen OBJ"
+
+#: ../html/panel.php:66
+msgid "Information"
+msgstr "Information"
+
+#: ../html/panel.php:68
+msgid "Info"
+msgstr "Info"
+
+#: ../html/panel.php:74
+msgid "Log"
+msgstr "Log"
+
+#: ../html/panel.php:101
+msgid "Welcome to Melibu Sharing Social Safe"
+msgstr "Willkommen bei Melibu Sharing Social Safe"
+
+#: ../html/panel.php:102
+msgid "Check this powerfull plugins to"
+msgstr "Überprüfen Sie diese leistungsstarke Plugins auch"
+
+#: ../html/panel.php:107
+msgid ""
+"Do you know, the MeliBu WP Download Counter Button. Turn your downloads into "
+"a highlight in seconds and get statistics about your download"
+msgstr ""
+"Kennen Sie schon den MeliBu WP Download Counter Button. Verwandeln Sie Ihre "
+"Downloads in Sekundenschnelle zu einem Highlight und erhalten Sie "
+"Statistiken über Ihre Downloads"
+
+#: ../html/panel.php:109 ../html/panel.php:119 ../html/panel.php:129
+msgid "More"
+msgstr "Mehr"
+
+#: ../html/panel.php:110 ../html/panel.php:120 ../html/panel.php:130
+msgid "Install"
+msgstr "Installieren"
+
+#: ../html/panel.php:117
+msgid ""
+"Do you know, the MeliBu WP Syntax High Lighter. Turn your code into a "
+"highlight in seconds with short codes in WP Texteditor"
+msgstr ""
+"Kennen Sie schon den MeliBu WP Syntax High Lighter. Verwandeln Sie Ihren "
+"Code in ein Highlight in Sekunden mit kurz Codes in WP Texteditor und vieles "
+"mehr"
+
+#: ../html/panel.php:127
+msgid ""
+"Do you know, the MeliBu WP Latest Posts Slides. Powerfull slider with many "
+"settings, touch friendly and mouse friendly."
+msgstr ""
+"Wissen Sie, die MeliBu WP Latest Posts Dias. Leistungsstarke Slider mit "
+"vielen Einstellungen, Touch freundlich und Maus freundlich."
+
+#: ../html/panel.php:139
+msgid ""
+"Induviduell Tabs for more flexibility. An interface to the MeliBu WP Sharing "
+"Social Safe. And much more..."
+msgstr ""
+"Induviduell Tabs für mehr Flexibilität. Eine Schnittstelle zum MeliBu WP "
+"Sharing Social Safe. Und vieles mehr..."
+
+#: ../html/panel.php:141 ../html/panel.php:150 ../html/panel.php:159
+msgid "Coming soon"
+msgstr "Demnächst"
+
+#: ../html/panel.php:148
+msgid ""
+"Get more statistics, with Melibu WP hits. Learn which share button is "
+"clicked the most and many more"
+msgstr ""
+"Erhalte mehr Statistiken, mit dem Melibu WP Hits. Erfahre wie viele Klicks "
+"du auf welchem Netzwerk Button du bekommst und viles mehr"
+
+#: ../html/panel.php:157
+msgid ""
+"Our feedback Generate's position all possible forms to create in seconds. "
+"Thanks to the sophisticated Melibus Drag N Drop system with live preview you "
+"can also see immediately what you are doing. And much more..."
+msgstr ""
+"Unser Feedback Generate ist in der Lage all mögliche Formulare in Sekunden "
+"zu erstellen. Dank des Melibus ausgeklügeltem Drag N Drop System mit live "
+"Vorschau sehen Sie ebenfalls sofort was Sie tun. Und vieles mehr..."
+
+#: ../html/panel.php:192
+msgid "Thank you for your confidence in"
+msgstr "Vielen Dank für Ihr Vertrauen in"
+
+#: ../html/panel/appearance.php:31
+msgid "Change buttons design to match your theme"
+msgstr "Ändern Sie Knopfentwurf, um Ihrem Theme zusammenzubringen"
+
+#: ../html/panel/appearance.php:61
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../html/panel/appearance.php:62
+msgid "Here you have a preview non active, you can click it."
+msgstr ""
+"Hier finden Sie eine deaktivierte Vorschau und können da drauf klicken."
+
+#: ../html/panel/appearance.php:63
+msgid "Share Us"
+msgstr "Teile"
+
+#: ../html/panel/appearance.php:65
+msgid "Follow Us"
+msgstr "Folge"
+
+#: ../html/panel/appearance.php:68
+msgid ""
+"You can make a selection with one click, the new design is stored and "
+"displayed immediately here between several MeliBu layouts."
+msgstr ""
+"Sie können hier zwischen mehreren MeliBu Layouts eine Auswahl treffen, mit "
+"einem klick wird das Neue Design gespeichert und sofort angezeigt."
+
+#: ../html/panel/appearance.php:70
+msgid "Go watch in the mobile view to the mobile icons also."
+msgstr "Wechseln Sie in die mobilen Ansicht um auch Mobile Symbole zusehen."
+
+#: ../html/panel/appearance.php:73
+msgid ""
+"Pinterest is displayed if you have included an image in your page, Melibu "
+"automatically switches to link to when an image has been found, (This "
+"applies to side photos Post photos) once you have added options in the short "
+"code."
+msgstr ""
+"Pinterest wird angezeigt, wenn Sie ein Bild auf Ihrer Seite aufgenommen "
+"haben, Melibu schaltet automatisch zu verbinden, wenn ein Bild gefunden "
+"wurde, (Dies gilt Fotos hochladen zu Seite), wenn Sie Optionen im kurzen "
+"Code hinzugefügt haben."
+
+#: ../html/panel/cards.php:3
+msgid "Share Cards"
+msgstr "Freigeben von Karten"
+
+#: ../html/panel/cards.php:4
+msgid ""
+"These meta tags will be integrated into the head area when they are "
+"activated, so please do not use other social networks otherwise they have "
+"several duplicate meta tags in the head"
+msgstr ""
+"Diese Meta-Tags werden in den Kopf Bereich integriert, wenn sie aktiviert "
+"sind, so verwenden Sie bitte keine anderen Sozialen Netzwerke sonst haben "
+"sie mehrere doppelte Meta-Tags in den Kopf"
+
+#: ../html/panel/cards.php:5
+msgid ""
+"All Meta tags are determined automatically except for those marked with "
+"required, these are required fields and are required to make this option "
+"functional"
+msgstr ""
+"Alle Meta-Tags werden automatisch mit Ausnahme derjenigen markierten, die "
+"mit den erforderlichen Angaben markiert sind. Diese Felder sind "
+"Pflichtfelder und müssen aktiviert werden"
+
+#: ../html/panel/cards.php:6
+msgid ""
+"Override this only if you want it to be the same for all pages and "
+"contributions of the title, description or even the picture."
+msgstr ""
+"Überschreiben Sie diese nur, wenn Sie für alle Seiten und Beiträge immer "
+"denselben Titel, die selbe Beschreibung oder auch das selbe Bilde wählen "
+"möchten."
+
+#: ../html/panel/cards.php:18 ../html/panel/cards.php:152
+msgid "Card"
+msgstr "Karte"
+
+#: ../html/panel/cards.php:44
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: ../html/panel/cards.php:45
+msgid "Summary Large Image"
+msgstr "Zusammenfassung Großes Bild"
+
+#: ../html/panel/cards.php:51 ../html/panel/cards.php:66
+#: ../html/panel/cards.php:81 ../html/panel/cards.php:191
+#: ../html/panel/cards.php:312
+msgid "Required"
+msgstr "Erforderlich"
+
+#: ../html/panel/cards.php:56
+msgid "Site"
+msgstr "Seite"
+
+#: ../html/panel/cards.php:63
+msgid "for the website used in the card footer"
+msgstr "Für die im Kartenfuß verwendete Website"
+
+#: ../html/panel/cards.php:71
+msgid "Creator"
+msgstr "Schöpfer"
+
+#: ../html/panel/cards.php:78
+msgid "for the content creator / author"
+msgstr "Für den Inhalt Schöpfer / Autor"
+
+#: ../html/panel/cards.php:93
+msgid "A concise title for the related content"
+msgstr "Ein prägnanter Titel für den entsprechenden Inhalt"
+
+#: ../html/panel/cards.php:96 ../html/panel/cards.php:112
+#: ../html/panel/cards.php:131 ../html/panel/cards.php:147
+#: ../html/panel/cards.php:206 ../html/panel/cards.php:222
+#: ../html/panel/cards.php:238 ../html/panel/cards.php:257
+#: ../html/panel/cards.php:273 ../html/panel/cards.php:327
+#: ../html/panel/cards.php:343 ../html/panel/cards.php:359
+#: ../html/panel/cards.php:383 ../html/panel/cards.php:407
+msgid "Not Required"
+msgstr "Nicht benötigt"
+
+#: ../html/panel/cards.php:97 ../html/panel/cards.php:113
+#: ../html/panel/cards.php:132 ../html/panel/cards.php:148
+#: ../html/panel/cards.php:207 ../html/panel/cards.php:223
+#: ../html/panel/cards.php:239 ../html/panel/cards.php:258
+#: ../html/panel/cards.php:328 ../html/panel/cards.php:344
+#: ../html/panel/cards.php:360 ../html/panel/cards.php:384
+msgid "Default is determined dynamically"
+msgstr "Der Standardwert wird dynamisch bestimmt"
+
+#: ../html/panel/cards.php:109
+msgid "A description that concisely summarizes the content"
+msgstr "Eine Beschreibung, die den Inhalt prägnant zusammenfasst"
+
+#: ../html/panel/cards.php:118 ../html/panel/cards.php:244
+msgid "Image"
+msgstr "Bild"
+
+#: ../html/panel/cards.php:123 ../html/panel/cards.php:249
+msgid "Choose image"
+msgstr "Wählen Sie ein Bild"
+
+#: ../html/panel/cards.php:124 ../html/panel/cards.php:250
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+#: ../html/panel/cards.php:128 ../html/panel/cards.php:254
+msgid "The URL of the image to display"
+msgstr "Die URL des anzuzeigenden Bildes"
+
+#: ../html/panel/cards.php:137
+msgid "Image Alt"
+msgstr "Bild Alt"
+
+#: ../html/panel/cards.php:144
+msgid "A text description of the image"
+msgstr "Eine Textbeschreibung des Bildes"
+
+#: ../html/panel/cards.php:178
+msgid "Website (default)"
+msgstr "Website (Standard)"
+
+#: ../html/panel/cards.php:179 ../html/panel/cards.php:303
+msgid "Blog"
+msgstr "Blog"
+
+#: ../html/panel/cards.php:180 ../html/panel/cards.php:304
+msgid "Article"
+msgstr "Artikel"
+
+#: ../html/panel/cards.php:181
+msgid "Place"
+msgstr "Ort"
+
+#: ../html/panel/cards.php:182
+msgid "Product"
+msgstr "Produkt"
+
+#: ../html/panel/cards.php:183
+msgid "Profile"
+msgstr "Profil"
+
+#: ../html/panel/cards.php:187 ../html/panel/cards.php:308
+msgid "The media type of your content"
+msgstr "Der Medientyp Ihres Contents"
+
+#: ../html/panel/cards.php:188 ../html/panel/cards.php:309
+msgid ""
+"If you choose \"article\" or \"blog\" as type, pinterest is automatically "
+"supported"
+msgstr ""
+"Wenn Sie \"Artikel\" oder \"Blog\" als Typ wählen, wird pinterest "
+"automatisch unterstützt"
+
+#: ../html/panel/cards.php:196
+msgid "URL"
+msgstr "URL"
+
+#: ../html/panel/cards.php:203
+msgid "The canonical URL for your page"
+msgstr "Die kanonische URL für Ihre Seite"
+
+#: ../html/panel/cards.php:219 ../html/panel/cards.php:324
+msgid "The title of your article without branding (eg the name of the site)"
+msgstr "Der Titel Ihres Artikels ohne Branding (zB der Name der Website)"
+
+#: ../html/panel/cards.php:235 ../html/panel/cards.php:340
+msgid "A brief description of the content"
+msgstr "Eine kurze Beschreibung des Inhalts"
+
+#: ../html/panel/cards.php:263
+msgid "fb APP ID"
+msgstr "fb APP ID"
+
+#: ../html/panel/cards.php:270
+msgid "To use the domain statistics of Facebook"
+msgstr "So verwenden Sie die Domainstatistik von Facebook"
+
+#: ../html/panel/cards.php:356
+msgid ""
+"The article author. All formatting, line breaks and HTML tags will be removed"
+msgstr ""
+"Der Artikel Autor. Alle Formatierungen, Zeilenumbrüche und HTML-Tags werden "
+"entfernt"
+
+#: ../html/panel/cards.php:365
+msgid "Publish at"
+msgstr "Veröffentlichen am"
+
+#: ../html/panel/cards.php:380
+msgid "The date the article was first published"
+msgstr "Das Datum, an dem der Artikel veröffentlicht wurde"
+
+#: ../html/panel/cards.php:404
+msgid ""
+"If you do not want content from your site to be displayed as rich pins, just "
+"enable this option"
+msgstr ""
+"Wenn Sie nicht möchten, dass Inhalte aus Ihrer Website als reiche Pins "
+"angezeigt werden, aktivieren Sie diese Option"
+
+#: ../html/panel/customcss.php:9
+msgid "Use your own CSS to override the current design"
+msgstr "Verwenden Sie Ihr eigenes CSS, um das aktuelle Design zu überschreiben"
+
+#: ../html/panel/customcss.php:10
+msgid "Customize it"
+msgstr "Passe es an"
+
+#: ../html/panel/dashboard.php:4
+msgid "Start with your"
+msgstr "Beginnen Sie mit Ihrem"
+
+#: ../html/panel/display.php:4
+msgid ""
+"Select where you want the social buttons to appear on your posts, pages and "
+"custom posts"
+msgstr ""
+"Wählen Sie, wo die sozialen Schaltflächen auf Ihre Beiträge, Seiten und "
+"benutzerdefinierte Beiträge angezeigt werden sollen"
+
+#: ../html/panel/display.php:5
+msgid "Show on"
+msgstr "Gezeigt bei"
+
+#: ../html/panel/display.php:29 ../html/panel/social.php:26
+msgid "No"
+msgstr "Nein"
+
+#: ../html/panel/display.php:30
+msgid "Allow"
+msgstr "Erlauben"
+
+#: ../html/panel/modal.php:4
+msgid "Here you can set which social networks you want to see on the modal"
+msgstr ""
+"Hier können Sie festlegen, welche sozialen Netzwerke im Modal angezeigt "
+"werden sollen"
+
+#: ../html/panel/optional.php:7
+msgid "Globally set which social optional you want to use on the buttons"
+msgstr ""
+"Weltweit eingestellt, welche Social-Option Sie auf den Schaltflächen "
+"verwenden möchten"
+
+#: ../html/panel/optional.php:11 ../html/social/optional.php:22
+msgid "Used Parameters"
+msgstr "Verwendete Parameter"
+
+#: ../html/panel/optional.php:25 ../html/social/optional.php:27
+#: ../html/social/twitter.php:12
+msgid "Your Twitter via @username"
+msgstr "Ihr Twitter via @benutzername"
+
+#: ../html/panel/optional.php:27 ../html/panel/optional.php:46
+#: ../html/panel/optional.php:65 ../html/panel/optional.php:84
+#: ../html/panel/optional.php:102 ../html/panel/optional.php:119
+#: ../html/panel/optional.php:136 ../html/panel/optional.php:153
+#: ../html/social/facebook.php:19 ../html/social/optional.php:33
+#: ../html/social/optional.php:51 ../html/social/optional.php:69
+#: ../html/social/optional.php:82 ../html/social/optional.php:96
+#: ../html/social/optional.php:110 ../html/social/optional.php:124
+#: ../html/social/optional.php:138 ../html/social/twitter.php:19
+#: ../html/social/xing.php:19
+msgid "Want you more information"
+msgstr "Möchten Sie weitere Informationen?"
+
+#: ../html/panel/optional.php:36 ../html/social/optional.php:31
+#: ../html/social/twitter.php:17
+msgid "Your username will be hung on the Share Button"
+msgstr ""
+"Der Benutzername wird dann auf die Schaltfläche Teilen mit angehängt  werden"
+
+#: ../html/panel/optional.php:44 ../html/social/optional.php:45
+#: ../html/social/xing.php:12
+msgid "Your Xing follow Page"
+msgstr "Ihre Xing Folgen Seite"
+
+#: ../html/panel/optional.php:55 ../html/social/optional.php:49
+#: ../html/social/xing.php:17
+msgid ""
+"You can place a Follow plugin on the success page displayed after a "
+"successful share"
+msgstr "Sie können nach einem erfolgreichen Teilen zu Ihrer Seite weiterleiten"
+
+#: ../html/panel/optional.php:63 ../html/social/facebook.php:12
+#: ../html/social/optional.php:63
+msgid "Your quote the Post"
+msgstr "Ihr Zitat beim teilen"
+
+#: ../html/panel/optional.php:74 ../html/social/facebook.php:17
+#: ../html/social/optional.php:67
+msgid "A quote to be shared along with the link"
+msgstr "Ein Zitat werden mit dem Link geteilt"
+
+#: ../html/panel/optionsobj.php:4
+msgid "See the globally object to use"
+msgstr "Siehe das global zu verwendende Objekt"
+
+#: ../html/panel/optionsobj.php:13
+msgid "Options OBJ (Array)"
+msgstr "Optionen OBJ"
+
+#: ../html/panel/privacy.php:12 ../html/social/message.php:21
+msgid "Privacy defaults"
+msgstr "Datenschutzvorgaben"
+
+#: ../html/panel/privacy.php:13 ../html/social/message.php:22
+msgid "Your Information to the Users"
+msgstr "Ihre Informationen an die Nutzer"
+
+#: ../html/panel/privacy.php:14 ../html/panel/privacy.php:21
+#: ../html/social/message.php:29
+msgid "Here appears after save your information to your users. (See preview)"
+msgstr ""
+"Hier erscheint nachdem speichern Ihre Information an Ihre Benutzer. (Siehe "
+"vorschau)"
+
+#: ../html/panel/privacy.php:20 ../html/panel/privacy.php:51
+#: ../html/social/message.php:28
+msgid "Your Message"
+msgstr "Ihre Nachricht"
+
+#: ../html/panel/privacy.php:36 ../html/panel/privacy.php:66
+#: ../html/social/message.php:44
+msgid "Link"
+msgstr "Link"
+
+#: ../html/panel/privacy.php:39
+msgid "Your Title"
+msgstr "Ihr Titel"
+
+#: ../html/panel/privacy.php:54 ../html/social/message.php:41
+msgid "Text"
+msgstr "Text"
+
+#: ../html/panel/privacy.php:63
+msgid "Your Link"
+msgstr "Ihr Link"
+
+#: ../html/panel/settings.php:4
+msgid "Global settings that are commonly applied"
+msgstr "Globale Einstellungen, die allgemein angewendet werden"
+
+#: ../html/panel/social.php:4
+msgid "Select social profiles you want to show"
+msgstr "Wählen Sie soziale Profile aus, die Sie anzeigen möchten"
+
+#: ../html/panel/social.php:5
+msgid "Social Networks"
+msgstr "Soziale Netzwerke"
+
+#: ../html/panel/social.php:17
+msgid "Social fixed bar"
+msgstr "Soziale feste Bar"
+
+#: ../html/panel/social.php:21
+msgid "Show social bar"
+msgstr "Zeige soziale Bar"
+
+#: ../html/panel/social.php:28
+msgid "Left"
+msgstr "Links"
+
+#: ../html/panel/social.php:30
+msgid "Top"
+msgstr "Oben"
+
+#: ../html/panel/social.php:32
+msgid "Right"
+msgstr "Rechts"
+
+#: ../html/panel/social.php:34
+msgid "Bottom"
+msgstr "Unten"
+
+#: ../html/panel/social.php:39
+msgid "Show shares or follows"
+msgstr "Zeige Teilen oder Folgen"
+
+#: ../html/panel/social.php:46 ../html/panel/social.php:52
+msgid "Follows"
+msgstr "Folgen"
+
+#: ../html/panel/social.php:66
+msgid "Your social follows"
+msgstr "Ihre sozialen gefolgten"
+
+#: ../html/panel/social.php:66
+msgid "Your roles"
+msgstr "Ihre Rollen"
+
+#: ../html/panel/social.php:71
+msgid "Show follows"
+msgstr "Zeige gefolgt"
+
+#: ../html/panel/social.php:72
+msgid ""
+"This setting is global for all follow buttons. Do not set this setting to "
+"otherwise is used only by an author's social networks, unless you want this"
+msgstr ""
+"Diese Einstellung ist global für alle Follow Buttons. Stellen Sie diese "
+"Einstellung nicht um ansonsten wird nur von einem Autor die Sozialen "
+"Netzwerke verwendet, ausser Sie möchten dies"
+
+#: ../html/panel/social.php:76
+msgid "Display per author (automatically)"
+msgstr "Anzeige pro Autor (automatisch)"
+
+#: ../html/panel/social.php:77
+msgid "Display only selected user settings"
+msgstr "Nur ausgewählte Benutzereinstellungen anzeigen"
+
+#: ../html/panel/social.php:95
+msgid "Please fill your Social Profile"
+msgstr "Füllen Sie bitte Ihr Sozialprofil aus"
+
+#: ../html/panel/social.php:95 ../html/social/dummy_follow.php:33
+msgid "Contact Info"
+msgstr "Kontaktinformation"
+
+#: ../html/panel/social.php:118
+msgid "Link (URL) in the contactinfo is missing"
+msgstr "Link (URL) in der Kontaktinfo fehlt"
+
+#: ../html/panel/social.php:123
+msgid "Link (URL) in the contactinfo is available"
+msgstr "Link (URL) in der Kontaktinfo steht zur Verfügung"
+
+#: ../html/social/dummy_follow.php:33
+msgid ""
+"This is the Follow short code. Please fill first your contact info to use "
+"Follow short code"
+msgstr ""
+"Dies ist der Follow kurz Code. Bitte füllen Sie zuerst Ihre Kontaktdaten aus"
+
+#: ../html/social/dummy_follow.php:42 ../html/social/dummy_share.php:23
+msgid ""
+"That is the short code. You can use a short code on a page, a post or place "
+"them in a widget. Or you can use the short code that is integrated into your "
+"editor, just click and the short code is placed. You can copy the short code "
+"editing and double click with."
+msgstr ""
+"Das ist der Kurzcode. Sie können einen Kurzcode auf einer Seite, ein Beitrag "
+"oder in einem widget platzieren. Oder Sie können den Kurzcode verwenden der "
+"in Ihrem Editor integriert ist, ein Klick genügt und der Kurzcode wird "
+"platziert.\n"
+"Sie können den Kurzcodebearbeiten und mit einem doppelklick kopieren."
+
+#: ../html/social/dummy_follow.php:43 ../html/social/dummy_share.php:24
+msgid "Please take the short code to copy"
+msgstr "Bitte nutzen Sie den kurzen Code um zu kopieren"
+
+#: ../html/social/dummy_share.php:14
+msgid ""
+"When parts need to configure anything, unless you use the optional "
+"parameters, otherwise you can use immediately on the MeliBu widget or via "
+"short code."
+msgstr ""
+"Beim Teilen brauchen Sie nichts einstellen, ausser Sie nutzen die optionalen "
+"Parameter, sonst können Sie über das MeliBu Widget oder auch per Kurz Code "
+"sofort verwenden."
+
+#: ../html/social/message.php:17
+msgid "Basic"
+msgstr "Basis"
+
+#: ../html/social/message.php:33
+msgid ""
+"This information is shown with a small round question mark next to your part "
+"buttons, so you can inform each user immediately about the part of the left."
+msgstr ""
+"Diese Information wird mit einem kleinen runden Fragezeichen neben Ihren "
+"Teil Buttons angezeigt, somit können Sie jeden Ihrer Benutzer sofort über "
+"die Teil links informieren."
+
+#: ../html/social/optional.php:15
+msgid "Information about the used part Buttons and Optional Parameters"
+msgstr "Information über die verwendeten Teil Buttons und Optionale Parameter"
+
+#: ../html/social/share.php:72
+msgid "Content before short share link"
+msgstr "Inhalt vor kurz teil link"
+
+#: ../html/social/share.php:73
+msgid "Here you can show/hide Share Buttons with Modal before the Content"
+msgstr ""
+"Hier können Sie Schaltflächen mit Modal vor dem Inhalt anzeigen / verbergen"
+
+#: ../html/social/share.php:74 ../html/social/share.php:96
+msgid "Activate this to share quickly"
+msgstr "Aktivieren Sie dies um schnelles teilen zu ermöglichen"
+
+#: ../html/social/share.php:94
+msgid "Content after short share link"
+msgstr "Inhalt nach kurz teil link"
+
+#: ../html/social/share.php:95
+msgid "Here you can show/hide Share Buttons with Modal after the Content"
+msgstr ""
+"Hier können Sie Schaltflächen mit Modal nach dem Inhalt anzeigen / verbergen"
+
+#: ../html/social/share.php:132
+msgid "Showing how often divided"
+msgstr "Zeige wie oft geteilt wurde"
+
+#: ../html/social/share.php:133
+msgid "Here you can show/hide the count of shares"
+msgstr ""
+"Hier können Sie nach bedarf  wie oft welcher Artikel geteilt wurde Anzeigen/"
+"Ausblenden"
+
+#: ../html/social/share.php:153
+msgid "Showing how often divided on button"
+msgstr "Zeigen, wie oft auf geteilt wurde auf dem Button"
+
+#: ../html/social/share.php:154
+msgid "Here you can show/hide the count of shares on button"
+msgstr ""
+"Hier können Sie die Anzahl der geteilten Inhalte auf der Schaltfläche ein- / "
+"ausblenden"
+
+#: ../html/social/share.php:190
+msgid "Privacy Box"
+msgstr "Datenschutz Box"
+
+#: ../html/social/share.php:191
+msgid "Here you can show/hide the privacy box"
+msgstr "Hier können Sie je nach bedarf die Datenschutz Box Anzeigen/Ausblenden"
+
+#: ../html/social/youtube.php:17 ../tpl/oauth.php:25
+msgid "Username"
+msgstr "Benutzername"
+
+#: ../tpl/modal.php:85 ../tpl/oauth.php:44
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../tpl/oauth.php:31
+msgid "Password"
+msgstr "Passwort"
+
+#: ../tpl/oauth.php:42
+msgid "Get access"
+msgstr "Zugang erhalten"
+
+#~ msgid "This documentation should help you."
+#~ msgstr "Diese Dokumentation soll Ihnen helfen."
+
+#~ msgid "You have no clicks."
+#~ msgstr "Sie haben keine klicks."
+
+#~ msgid "A MeliBu WordPress Widget by Professional Developers."
+#~ msgstr "Ein MeliBu WordPress Widget von Professional Developers."
+
+#~ msgid "A MeliBu WordPress Widget by Professionals Developers."
+#~ msgstr "Ein MeliBu Wordpress Widget von Professionellen Entwicklern."
+
+#~ msgid "A URL to a unique image representing the content"
+#~ msgstr "Eine URL zu einem eindeutigen Bild, das den Inhalt darstellt"
+
+#~ msgid "Others"
+#~ msgstr "Andere"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "All Posts"
+#~ msgstr "Alle Beiträge"
+
+#~ msgid "here"
+#~ msgstr "hier"
+
+#~ msgid "Entry successfully removed"
+#~ msgstr "Eintrag erfolgreich entfernt"
+
+#~ msgid "Stats"
+#~ msgstr "Statistiken"
+
+#~ msgid "Settings saved!"
+#~ msgstr "Einstellungen gespeichert!"
+
+#~ msgid "More..."
+#~ msgstr "Mehr..."
+
+#~ msgid "bitly connect successfully created"
+#~ msgstr "bitly Verbindung erfolgreich hergestellt"
+
+#~ msgid "Disable / Enable"
+#~ msgstr "Deaktivieren / Aktivieren"
+
+#~ msgid "Turn On"
+#~ msgstr "Einschalten"
+
+#~ msgid ""
+#~ "This they set in MeliBu Find us widget. There you can add to your "
+#~ "profiles or pages the buttons with the left. Once you have set the widget "
+#~ "on your needs you can also use the short code anywhere."
+#~ msgstr ""
+#~ "Dies stellen sie im MeliBu Find us widget ein. Dort können Sie die "
+#~ "Buttons mit links zu Ihren Profilen oder Seiten hinzufügen. Nachdem Sie "
+#~ "das Widget nach Ihren bedürfnissen eingestellt haben können Sie auch den "
+#~ "Kurz Code überall nutzen."
+
+#~ msgid ""
+#~ "If you activate bitly, you must remember that you have to expect "
+#~ "performance loss. Since every link that leads to your page where you have "
+#~ "set a shortcode is converted into a bitly url, so that you can monitor "
+#~ "the backlink behave"
+#~ msgstr ""
+#~ "Wenn Sie bitly aktivieren müssen Sie bedenken das Sie mit "
+#~ "Leistungsverlust rechnen müssen. Da jeder link der zu Ihrer Seite führt "
+#~ "wo Sie ein kurz Code gesetzt haben in eine bitly Url umgewandelt wird, "
+#~ "damit Sie das back link verhalten überwachen können"
+
+#~ msgid "Successfully created bitly connect"
+#~ msgstr "Erfolgreich erstellt bitly Verbindung"
+
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook Gefällt mir"
+
+#~ msgid "Check on bitly how often your backlinks clicked"
+#~ msgstr "Überprüfen Sie auf bitly, wie oft Ihre Backlinks geklickt wurden"
+
+#~ msgid "No bitly found"
+#~ msgstr "Kein bitly gefunden"
+
+#~ msgid "Your login and Api key can be found in your Bitly Account at"
+#~ msgstr "Ihr Login und Api-Schlüssel finden Sie in Ihrem Bitly Account unter"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Erweiterte Einstellungen"
+
+#~ msgid "API Support"
+#~ msgstr "API Unterstützung"
+
+#~ msgid "Login name"
+#~ msgstr "Benutzername"
+
+#~ msgid "Api Key"
+#~ msgstr "API Schlüssel"
+
+#~ msgid ""
+#~ "If you activate bitly, you must remember that you must reckon with power "
+#~ "loss. Since every link that leads to your page where you have set a "
+#~ "shortcode is converted into a bitly url, so that you can monitor the "
+#~ "backlink behave"
+#~ msgstr ""
+#~ "Wenn Sie bitly aktivieren müssen Sie bedenken das Sie mit Leistung "
+#~ "Verlust rechnen müssen. Da jeder link der zu Ihrer Seite führt wo Sie ein "
+#~ "kurz Code gesetzt haben in eine bitly Url umgewandelt wird, damit Sie das "
+#~ "backlink verhalten überwachen können."
+
+#~ msgid ""
+#~ "This plugin protects you and access your users against unauthorized, it "
+#~ "was specifically designed"
+#~ msgstr ""
+#~ "Dieses Plugin schützt Sie und Zugriff auf Ihre Benutzer gegen unbefugte, "
+#~ "es wurde speziell entwickelt"
+
+#~ msgid "Share us widget"
+#~ msgstr "Teilen Sie uns Widget"
+
+#~ msgid "Find us widget"
+#~ msgstr "Finden Sie uns Widget"
+
+#~ msgid "Use the shortcode on pages, posts and text widgets"
+#~ msgstr ""
+#~ "Verwenden Sie den kurzen Code auf den Seiten, Beiträge und Text-Widgets"
+
+#~ msgid "Sharing buttons with simple links"
+#~ msgstr "Teil Buttons mit einfachen links"
+
+#~ msgid "Title short share link with Modal"
+#~ msgstr "Titel Kurz Teil Link mit Modal"
+
+#~ msgid "Statistics click overview"
+#~ msgstr "Statistiken klick Überblick"
+
+#~ msgid "Show share counts"
+#~ msgstr "Zeige geteilt anzahl"
+
+#~ msgid "On optional parameters that are available to him"
+#~ msgstr "Verwenden Sie optionale Parameter, die Ihn zur Verfügung stehen"
+
+#~ msgid "You decide which buttons really are visible"
+#~ msgstr "Sie entscheiden, welche Tasten wirklich sichtbar sind"
+
+#~ msgid "Inform the customer about your privacy policy"
+#~ msgstr "Informieren Sie den Kunden über die Datenschutzerklärung "
+
+#~ msgid "Optional Title short share link with Modal"
+#~ msgstr "Anzeigen/Ausblenden zusätzlicher Titel kurz teil Button mit Modal"
+
+#~ msgid "Optional show/hide Melibu Copyright"
+#~ msgstr "Optional Anzeigen/Ausblenden Melibu Copyright"
+
+#~ msgid "Optional show/hide Melibu Privacy Box"
+#~ msgstr "Optional Anzeigen/Ausblenden Datenschutz box"
+
+#~ msgid "Optional show/hide Melibu Share Counts"
+#~ msgstr "Optional Anzeigen/Ausblenden Anzahl geteilt"
+
+#~ msgid "Show/Hide additional FontAwesome CSS"
+#~ msgstr "Anzeigen/Ausblenden zusätzliche Schrift FontAwesome CSS"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Teil auf Google+"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Teile auf Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Teile auf Twitter"
+
+#~ msgid "Share on Xing"
+#~ msgstr "Teile auf Xing"
+
+#~ msgid "Share on LinkedIn"
+#~ msgstr "Teile auf LinkedIn"
+
+#~ msgid "Pin on Pinterest"
+#~ msgstr "Pin auf Pinterest"
+
+#~ msgid "Share on tumblr"
+#~ msgstr "Teile auf Tumblr"
+
+#~ msgid "Share with Mail"
+#~ msgstr "Teile per Mail"
+
+#~ msgid "Share on WhatsApp"
+#~ msgstr "Teile auf WhatsApp"
+
+#~ msgid "Agent"
+#~ msgstr "Agent"
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "Delete"
+#~ msgstr "Entfernen"
+
+#~ msgid "Title short share link"
+#~ msgstr "Titel kurz teil link"
+
+#~ msgid "Here you can show/hide Share Buttons with Modal under the Title."
+#~ msgstr "Hier können Sie Share Buttons mit Modal unter dem Titel aktivieren."
+
+#~ msgid "Subscribe Us"
+#~ msgstr "Abonnieren Sie uns"
+
+#~ msgid ""
+#~ "Get more statistics, with Melibu WP hits. Learn which share button is "
+#~ "clicked the most."
+#~ msgstr ""
+#~ "Holen Sie sich mehr Statistiken, mit MeliBu WP Hits. Erfahren Sie z.B. "
+#~ "welches Soziale Netzwerk am häufigsten geteilt wird."
+
+#~ msgid ""
+#~ "Not Want that one of the social networks is displayed, then remove it "
+#~ "from the short code."
+#~ msgstr ""
+#~ "Möchten Sie das eines der Sozialen Netzwerke nicht angezeigt wird, dann "
+#~ "entfernen Sie es aus dem Kurzcode"
+
+#~ msgid "In this example googleplus was removed so it is not displayed."
+#~ msgstr ""
+#~ "In diesem beispiel wurde google plus entfernt also wird dieser nicht "
+#~ "angezeigt"
+
+#~ msgid ""
+#~ "That is the short code. You can copy a short code and place on a page, "
+#~ "post or in a widget. Or use the short code has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Das ist der Kurzcode. Sie können einen Kurzcode auf einer Seite, ein "
+#~ "Beitrag oder in einem widget platzieren. Oder Sie können den Kurzcode "
+#~ "verwenden der in Ihrem Editor integriert ist, ein Klick genügt und der "
+#~ "Kurzcode wird platziert."
+
+#~ msgid "Use Share in WP Editor"
+#~ msgstr "Nutzen Sie Teilen im WP Editor"
+
+#~ msgid "Use Subscribe in WP Editor"
+#~ msgstr "Nutzen Sie Abonnieren im WP Editor"
+
+#~ msgid "Use MB Social Share Widget"
+#~ msgstr "Nutzen Sie MB Social Teilen Widget"
+
+#~ msgid "Take the parts so that your widget users can share your content"
+#~ msgstr ""
+#~ "Wählen Sie unser widget damit Ihre Nutzer Ihren Inhalt teilen können"
+
+#~ msgid "Use MB Social Subscribe Widget"
+#~ msgstr "Nutzen Sie MB Social Abonnieren Widget"
+
+#~ msgid ""
+#~ "Use the Subscribe widget to your users on your social networks to conduct"
+#~ msgstr ""
+#~ "Nutzen Sie unseren Abonnieren widget damit Ihre Nutzer Sie im jeweiligen "
+#~ "Netzwerk Abonnieren können"
+
+#~ msgid "Very recommendable item: "
+#~ msgstr "Sehr zu empfehlender Artikel:"
+
+#~ msgid "19 Awesome Designs, choose your style"
+#~ msgstr "19 Super-Designs, wählen Sie Ihren Stil"
+
+#~ msgid "Extra Settings"
+#~ msgstr "Extra Einstellungen"
+
+#~ msgid "Google+ plus"
+#~ msgstr "Google+ Plus"
+
+#~ msgid "Activate this to share qickly"
+#~ msgstr "Aktivieren Sie dies um schneller zu teilen"
+
+#~ msgid "Please activate this to help us, for shre this plugin"
+#~ msgstr ""
+#~ "Bitte aktivieren Sie diese Option um uns zu helfen, damit sich das Plugin "
+#~ "verbreitet"
+
+#~ msgid "+ Premium"
+#~ msgstr "+ Premium"
+
+#~ msgid "Outputs"
+#~ msgstr "Ausgänge"
+
+#~ msgid "Find Us"
+#~ msgstr "Finde uns"
+
+#~ msgid "Click to Edit and Double Click to copy"
+#~ msgstr "Ein klick um zu bearbeiten und zwei Klicks um zu kopieren"
+
+#~ msgid "Extra"
+#~ msgstr "Extra"
+
+#~ msgid "Select:"
+#~ msgstr "Wählen:"
+
+#~ msgid "Click to Edit and Double Click to copy."
+#~ msgstr "Klicken um zu bearbeiten und doppel klick um zu kopieren."
+
+#~ msgid "FontAwsome"
+#~ msgstr "FontAwesome"
+
+#~ msgid "Here you can show/hide FontAwesome CSS"
+#~ msgstr "Hier können Sie FontAwesome CSS Ein-/Ausschalten"
+
+#~ msgid "Shortcode"
+#~ msgstr "Kurzcode"
+
+#~ msgid "Text & Shortcode"
+#~ msgstr "Text & Kurzcode"
+
+#~ msgid ""
+#~ "That is the shortcode. You can copy a shortcode and place on a page, post "
+#~ "or in a widget. Or use the shortcode has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Das ist der Kurzcode . Sie können ein Kurzcode auf einer Seite, in einem "
+#~ "Beitrag oder in einem Widget nutzen. Oder nutzen Sie den Kurzcode der in "
+#~ "Ihren Editor integriert ist, ein Klick genügt."
+
+#~ msgid "Please take the shortcode double click to copy"
+#~ msgstr "1 Klick um zu bearbeiten und 2 Klicks um zu kopieren"
+
+#~ msgid "Without Top 5"
+#~ msgstr "Ohne Top 5"
+
+#~ msgid "More "
+#~ msgstr "Mehr"
+
+#~ msgid "Turn Off"
+#~ msgstr "Abschalten"
+
+#~ msgid "MeliBu Plugin -> Sharing Social Safe"
+#~ msgstr "MeliBu Plugin -> Teile Soziales Sicher"
+
+#~ msgid "Melibu Plugin"
+#~ msgstr "Melibu Plugin"
+
+#~ msgid "Welcome to Melibu"
+#~ msgstr "Willkommen zu Melibu"
+
+#~ msgid "Important Links"
+#~ msgstr "Wichtige Links"
+
+#~ msgid "In like please give MeliBu WP Sharing Social Safe"
+#~ msgstr "Bei gefallen bitte MeliBu WP Teile Soziales Sicher"
+
+#~ msgid "Less loading time"
+#~ msgstr "Weniger Ladezeit "
+
+#~ msgid "Make your page more quickly"
+#~ msgstr "Machen Sie Ihre Seite schneller"
+
+#~ msgid "Development is fueled by your praise and feedback."
+#~ msgstr "Die Entwicklung wird durch Lob und Feedback getankt."
+
+#~ msgid "MB Special Shining Dark"
+#~ msgstr "MB Sonder Glänzend Dunkel"
+
+#~ msgid ""
+#~ "RSS is only visible if you have set up an RSS feed, determined Melibu the "
+#~ "URL and adds the RSS part Button added automatically. "
+#~ msgstr ""
+#~ "RSS ist nur sichtbar, wenn Sie einen RSS-Feed eingerichtet haben, "
+#~ "bestimmt Melibu die URL und fügt der RSS Teil Taste automatisch "
+#~ "hinzugefügt."
+
+#~ msgid "MB Flat Circle"
+#~ msgstr "MB Flach Rund"
+
+#~ msgid "MB Default Flat Long"
+#~ msgstr "MB Standard Flach Lang"
+
+#~ msgid "MB Glow Corner"
+#~ msgstr "MB Leuchtend Ecke"
+
+#~ msgid "MB Default"
+#~ msgstr "MB Standard"
+
+#~ msgid "MB Short"
+#~ msgstr "MB Kurz"
+
+#~ msgid "MB Short Smooth"
+#~ msgstr "MB Kurz Glatt"
+
+#~ msgid "MB Corner"
+#~ msgstr "MB Ecke"
+
+#~ msgid "MB Corner Smooth"
+#~ msgstr "MB Ecke Glatt"
+
+#~ msgid "MB Round"
+#~ msgstr "MB Rund"
+
+#~ msgid "MB Round Shadow"
+#~ msgstr "MB Rund Schatten"
+
+#~ msgid "MB Rotate Icon"
+#~ msgstr "MB Drehsymbol"
+
+#~ msgid "MB Full Width"
+#~ msgstr "MB Volle Breite"
+
+#~ msgid "Tooltip &copy; by "
+#~ msgstr "Tooltip &copy; by "
+
+#~ msgid "MB Smooth"
+#~ msgstr "MB Glatt"
+
+#~ msgid ""
+#~ "We would like to inform that are about parameter appended to the URL. We "
+#~ "believe every person has exactly the same rights zuwerden educated about "
+#~ "how to work such links."
+#~ msgstr ""
+#~ "Wir möchten Sie darüber Informieren welche parameter an den URLs "
+#~ "angehängt sind. Wir sind der Meinung, jeder Mensch hat genau das selbe "
+#~ "Recht darüber aufgeklärt zuwerden wie solche Links funktionieren."
+
+#~ msgid ""
+#~ "If its interesting to you can click on the respective link and learn "
+#~ "about the part buttons."
+#~ msgstr ""
+#~ "Wenn es Sie interessiert können Sie auf den jeweiligen link klicken und "
+#~ "sich über die Teil Buttons informieren."
+
+#~ msgid "Here appears after save your information to your users."
+#~ msgstr "Hier erscheint nachdem speichern Ihre Information an Ihre Benutzer."
+
+#~ msgid ""
+#~ "We would like to inform that are about parameters angeähngt to the URLs. "
+#~ "We believe every person has exactly the same rights zuwerden educated "
+#~ "about how to work such links. If its interesting to you can click on the "
+#~ "respective link and learn about the part buttons."
+#~ msgstr ""
+#~ "Wir möchten Sie darüber Informieren welche parameter an den URLs "
+#~ "angeähngt sind. Wir sind der Meinung, jeder Mensch hat genau das selbe "
+#~ "Recht darüber aufgeklärt zuwerden wie solche Links funktionieren. Wenn es "
+#~ "Sie interessiert können Sie auf den jeweiligen link klicken und sich über "
+#~ "die Teil Buttons informieren."
+
+#~ msgid "Your Quote for share"
+#~ msgstr "Ihr Zitat beim teilen"
+
+#~ msgid "Very recommendable items: "
+#~ msgstr "Sehr zu empfehlen Artikel:"
+
+#~ msgid "MeliBu Plugin -> Sahring Social Safe"
+#~ msgstr "MeliBu Plugin -> Teile Soziales Sicher"
+
+#~ msgid "Pin on Pinit"
+#~ msgstr "Pin auf Pinterest"
+
+#~ msgid "MeliBu Plugin -> Social Safe Buttons"
+#~ msgstr "MeliBu Plugin -> "
+
+#~ msgid ""
+#~ "The instance is when individual always different and duplicate the same, "
+#~ "that is must if they offer a file with the same URL to download the "
+#~ "instance be the same."
+#~ msgstr ""
+#~ "Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+#~ "einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten "
+#~ "auf einer Seite mehrere gleiche downloads verwenden, dann muss die "
+#~ "Instanz und die download URL gleich sein."
+
+#~ msgid ""
+#~ "When issues, problems, or even encouraging and have criticism contact ish "
+#~ "to the Support."
+#~ msgstr ""
+#~ "Wenn Sie fragen, Probleme oder auch Anregung, Kritik haben wenden Sie "
+#~ "sich bitte an den Support."
+
+#~ msgid "file url"
+#~ msgstr "Datei url"
+
+#~ msgid "file name"
+#~ msgstr "Datei name"
+
+#~ msgid "file type"
+#~ msgstr "Datei typ"
+
+#~ msgid "file size"
+#~ msgstr "Datei größe"
+
+#~ msgid "file last access"
+#~ msgstr "Letzter Datei zugriff"
+
+#~ msgid "<strong>Label Backgroundcolor</strong>"
+#~ msgstr "<strong>Label Hintergrungfarbe</strong>"
+
+#~ msgid ""
+#~ "<small>You can delete the actually image, save without select a image.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>Sie können das aktuelle Bild löschen, in dem Sie einfach ohne ein "
+#~ "Bild auszuwählen Speichern..</small>"
+
+#~ msgid "<strong>Choose your Layout</strong>"
+#~ msgstr "<strong>Wählen Sie Ihr Layout</strong>"
+
+#~ msgid "<strong>Choose with or without info label</strong>"
+#~ msgstr "<strong>Wählen Sie ob mit oder ohne label</strong>"
+
+#~ msgid "MeliBu Plugin -> Download Counter Button"
+#~ msgstr "MeliBu Plugin -> Donwload Counter Button"
+
+#~ msgid "<strong>Button Backgroundcolor</strong>"
+#~ msgstr "<strong>Schaltfläche hintergrundfarbe</strong>"
+
+#~ msgid "<strong>Icon Backgroundcolor</strong>"
+#~ msgstr "<strong>Symbol hintergrundfarbe</strong>"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "First"
+#~ msgstr "Erste"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Go"
+#~ msgstr "Vor"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Last"
+#~ msgstr "Letzte"
+
+#~ msgid "Colors & Image"
+#~ msgstr "Farben & Bild"
+
+#~ msgid "Here you can set the colors and a download image."
+#~ msgstr "Hier können Sie die Farben und ein Bild festlegen."
+
+#~ msgid "Here you have to set the option, the possibility."
+#~ msgstr "Hier können Sie die Sichtbarkeit des Labels und Farbe einstellen."
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Author:"
+#~ msgstr "Autor"
+
+#~ msgid "Marketing:"
+#~ msgstr "Marketing"
+
+#~ msgid "Developer:"
+#~ msgstr "Entwickler"
+
+#~ msgid "MeliBu WP Download Counter Button"
+#~ msgstr "MeliBu WP Downloads zähler"
+
+#~ msgid ""
+#~ "This Plugin help Developer or other to set a Download button for a file "
+#~ "with Counter and informations."
+#~ msgstr ""
+#~ "Dieses Plugin wurde entwickelt um entwicklern als auch anderen Benutzern "
+#~ "behilflich zu sein."

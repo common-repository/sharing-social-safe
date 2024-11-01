@@ -1,0 +1,1611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeliBu WP Sharing Social Safe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-21 17:59+0200\n"
+"PO-Revision-Date: 2016-10-21 17:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class.MelibuBackend.php:159 ../html/social/dummy_follow.php:41
+#: ../html/social/dummy_share.php:22 ../html/welcome.php:92
+#: ../html/welcome.php:202
+msgid "Short code"
+msgstr "Kisa kod"
+
+#: ../classes/class.MelibuBackend.php:173
+#: ../classes/class.MelibuBackend.php:174 ../html/design.php:73
+#: ../html/welcome.php:62
+msgid "Design"
+msgstr "Dizayn"
+
+#: ../classes/class.MelibuBackend.php:181
+msgid "Stats"
+msgstr "İstatistik"
+
+#: ../classes/class.MelibuBackend.php:182 ../html/welcome.php:68
+#: ../html/welcome.php:150
+msgid "Statistics"
+msgstr "İstatistik genel bakış"
+
+#: ../classes/class.MelibuBackend.php:189
+#: ../classes/class.MelibuBackend.php:190 ../html/privacy.php:73
+#: ../html/welcome.php:74 ../html/welcome.php:160 ../html/welcome.php:164
+msgid "Privacy"
+msgstr "Gizlilik"
+
+#: ../classes/class.MelibuBackend.php:197
+#: ../classes/class.MelibuBackend.php:198 ../html/optional.php:73
+#: ../html/welcome.php:80
+msgid "Optional"
+msgstr "İsteğe bağlı"
+
+#: ../classes/class.MelibuBackend.php:205
+#: ../classes/class.MelibuBackend.php:206 ../html/settings.php:72
+#: ../html/welcome.php:86 ../html/welcome.php:165 ../html/welcome.php:182
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../classes/class.MelibuBackend.php:213
+#: ../classes/class.MelibuBackend.php:214
+msgid "About"
+msgstr "Hakkında"
+
+#: ../classes/class.MelibuShare.php:49 ../classes/class.MelibuShare.php:182
+msgid "Already"
+msgstr "Zaten"
+
+#: ../classes/class.MelibuShare.php:49
+msgid "times divided"
+msgstr "kez bölünmüş"
+
+#: ../classes/class.MelibuShare.php:116 ../classes/class.MelibuWidget.php:461
+msgid "Click for more Privacy"
+msgstr "Daha fazla Gizlilik için tıklayın"
+
+#: ../classes/class.MelibuShare.php:182
+msgid "times followed"
+msgstr "kez izledi"
+
+#: ../classes/class.MelibuShareAbstract.php:62 ../html/settings.php:79
+msgid "Share"
+msgstr "Paylaş"
+
+#: ../classes/class.MelibuShareAbstract.php:148
+msgid "item"
+msgstr "madde"
+
+#: ../classes/class.MelibuShareAbstract.php:188
+#: ../classes/class.MelibuWidget.php:225 ../classes/class.MelibuWidget.php:233
+#: ../classes/class.MelibuWidget.php:241 ../classes/class.MelibuWidget.php:249
+#: ../classes/class.MelibuWidget.php:257 ../classes/class.MelibuWidget.php:265
+#: ../classes/class.MelibuWidget.php:273 ../classes/class.MelibuWidget.php:281
+#: ../classes/class.MelibuWidget.php:289 ../classes/class.MelibuWidget.php:297
+#: ../classes/class.MelibuWidget.php:305 ../classes/class.MelibuWidget.php:313
+#: ../classes/class.MelibuWidget.php:321 ../classes/class.MelibuWidget.php:329
+#: ../html/social/dummy_share.php:30 ../html/social/dummy_share.php:37
+#: ../html/social/dummy_share.php:44 ../html/social/dummy_share.php:51
+#: ../html/social/dummy_share.php:58 ../html/social/dummy_share.php:65
+#: ../html/social/dummy_share.php:72 ../html/social/dummy_share.php:79
+#: ../html/social/dummy_share.php:86 ../html/social/dummy_share.php:93
+#: ../html/social/dummy_share.php:100 ../html/social/dummy_share.php:107
+#: ../html/social/dummy_share.php:114 ../html/social/dummy_share.php:121
+msgid "Share on"
+msgstr "Paylaş"
+
+#: ../classes/class.MelibuShareLinks.php:416
+#: ../classes/class.MelibuShareLinks.php:428
+msgid "Very recommendable item:"
+msgstr "Çok tavsiye et:"
+
+#: ../classes/class.MelibuSocialWidget.php:49
+#: ../classes/class.MelibuWidget.php:56
+msgid "A MeliBu WordPress Widget by Professionals Developers"
+msgstr "A MeliBu WordPress Widget by Professionals Developers"
+
+#: ../classes/class.MelibuSocialWidget.php:154
+#: ../classes/class.MelibuWidget.php:122 ../html/social/message.php:38
+msgid "Title"
+msgstr "Başlık"
+
+#: ../classes/class.MelibuSocialWidget.php:203
+#: ../classes/class.MelibuWidget.php:145
+msgid "Text & Short Code"
+msgstr "Metin ve Kısa kod"
+
+#: ../classes/class.MelibuWidget.php:128
+msgid "Select"
+msgstr "Seçin"
+
+#: ../classes/class.MelibuWidget.php:337 ../html/social/dummy_share.php:128
+msgid "Share on Mail"
+msgstr "Mail ile paylaş"
+
+#: ../classes/class.MelibuWidget.php:345 ../html/social/dummy_share.php:135
+msgid "Share on Print"
+msgstr "Baski ile paylaş"
+
+#: ../classes/pager/class.MelibuClicks.php:115
+msgid "First"
+msgstr "İlk"
+
+#: ../classes/pager/class.MelibuClicks.php:125
+msgid "Back"
+msgstr "Geri"
+
+#: ../classes/pager/class.MelibuClicks.php:154
+msgid "Go"
+msgstr "Öne"
+
+#: ../classes/pager/class.MelibuClicks.php:163
+msgid "Last"
+msgstr "Son"
+
+#: ../classes/pager/class.MelibuClicks.php:179
+msgid "Total Clicks"
+msgstr "Toplam Tıklanma"
+
+#: ../classes/pager/class.MelibuClicks.php:180
+msgid "Total Shares"
+msgstr "Toplam Paylar"
+
+#: ../classes/pager/class.MelibuClicks.php:181
+msgid "Total Follows"
+msgstr "Toplam Follows"
+
+#: ../classes/pager/class.MelibuClicks.php:191
+msgid "Refresh"
+msgstr "Yenile"
+
+#: ../classes/pager/class.MelibuClicks.php:231
+msgid "Show per page"
+msgstr "Sayfa başına göster"
+
+#: ../classes/pager/class.MelibuClicks.php:247
+msgid "Show"
+msgstr "şov"
+
+#: ../classes/pager/class.MelibuClicks.php:255
+msgid "Activate now with"
+msgstr "Şimdi etkinleştir ile"
+
+#: ../classes/pager/class.MelibuClicks.php:255
+msgid "here"
+msgstr "burada"
+
+#: ../classes/pager/class.MelibuClicks.php:262
+msgid "You have no clicks."
+msgstr "Hiç tıklama yok."
+
+#: ../classes/pager/class.MelibuClicks.php:268 ../html/social/optional.php:21
+msgid "Plattform"
+msgstr "Plattform"
+
+#: ../classes/pager/class.MelibuClicks.php:269
+msgid "User Agent"
+msgstr "User Agent"
+
+#: ../classes/pager/class.MelibuClicks.php:271
+msgid "Page Url"
+msgstr "Sayfa URL"
+
+#: ../classes/pager/class.MelibuClicks.php:272
+msgid "Page bitly Url"
+msgstr "Sayfa bitly URL"
+
+#: ../classes/pager/class.MelibuClicks.php:273
+msgid "Share Url"
+msgstr "Hisse URL"
+
+#: ../classes/pager/class.MelibuClicks.php:274
+msgid "Type"
+msgstr "Tip"
+
+#: ../classes/pager/class.MelibuClicks.php:275
+msgid "Last Click"
+msgstr "Son Tıklama"
+
+#: ../classes/pager/class.MelibuClicks.php:276
+msgid "Edit"
+msgstr "Düzenleme"
+
+#: ../classes/pager/class.MelibuClicks.php:297
+msgid "bitly link found for this Site URL"
+msgstr "bitly Bu Siteyi URL bulundu bağlantısını"
+
+#: ../classes/pager/class.MelibuClicks.php:303
+#: ../classes/pager/class.MelibuClicks.php:309
+msgid "No bitly found, activate for check links"
+msgstr "Hiçbir bitly bulunamadi onay bağlantıları için etkinleştirmek"
+
+#: ../classes/pager/class.MelibuClicks.php:306
+msgid "For follows no bitly support"
+msgstr "Follows için hiçbir bitly destek yok"
+
+#: ../classes/pager/class.MelibuClicks.php:341
+msgid "Page"
+msgstr "Sayfa"
+
+#: ../classes/pager/class.MelibuClicks.php:341
+msgid "from"
+msgstr "itibaren"
+
+#: ../classes/pager/class.MelibuClicks.php:361
+msgid "Entry successfully removed"
+msgstr "Giriş başarıyla kaldırıldı"
+
+#: ../html/about.php:21
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+#: ../html/about.php:25 ../html/design.php:116 ../html/optional.php:91
+#: ../html/privacy.php:91 ../html/settings.php:96 ../html/stats.php:63
+#: ../html/welcome.php:28
+msgid "Version"
+msgstr "Versiyon"
+
+#: ../html/about.php:35
+msgid "Welcome"
+msgstr "Karşılama"
+
+#: ../html/about.php:41 ../html/about.php:91
+msgid "Functions"
+msgstr "Fonksiyonlar"
+
+#: ../html/about.php:47 ../html/about.php:152
+msgid "Support"
+msgstr "Destek"
+
+#: ../html/about.php:53
+msgid "Development"
+msgstr "Gelişme"
+
+#: ../html/about.php:59
+msgid "Translation"
+msgstr "Çeviri"
+
+#: ../html/about.php:65 ../html/about.php:239
+msgid "Donate"
+msgstr "Bağışlamak"
+
+#: ../html/about.php:80
+msgid "More Professional"
+msgstr "Daha Profesyonel"
+
+#: ../html/about.php:80
+msgid "Themes"
+msgstr "Temalar"
+
+#: ../html/about.php:80
+msgid "and "
+msgstr "ve"
+
+#: ../html/about.php:80
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: ../html/about.php:94
+msgid "Functionality"
+msgstr "Işlevsellik"
+
+#: ../html/about.php:96
+msgid "Requires no 2 click buttons"
+msgstr "2 tıklama gerekziz"
+
+#: ../html/about.php:97
+msgid "Eliminates \"unauthorized\" data transfer to Social Networks"
+msgstr "Sosyal Ağlar için \"izinsiz\" veri aktarımı ortadan kaldırır"
+
+#: ../html/about.php:98
+msgid "Secure sharing of their customer"
+msgstr "Müşteri güvenli paylaşımı"
+
+#: ../html/about.php:99
+msgid "No special scripts or external applications are loaded"
+msgstr "Hiçbir özel komut dosyaları veya harici uygulamalar yüklenmiyor"
+
+#: ../html/about.php:100
+msgid "Less loading time, does your page faster"
+msgstr "Az yükleme süresi, daha hızlı sayfa"
+
+#: ../html/about.php:101
+msgid "Supports bitly short links"
+msgstr "bitly kısa bağlantılar destekler"
+
+#: ../html/about.php:102
+msgid "Share widget"
+msgstr "Hisse eklendi"
+
+#: ../html/about.php:103
+msgid "Follow widget"
+msgstr "Widget takip"
+
+#: ../html/about.php:104
+msgid "Automatically detects the title and describe"
+msgstr "Otomatik olarak başlık ve açıklama algılar"
+
+#: ../html/about.php:105
+msgid "Automatically detect for Pinterest"
+msgstr "Otomatik Pinterest için tespit"
+
+#: ../html/about.php:106
+msgid "Automatically detect for WhatsApp"
+msgstr "Otomatik WhatsApp için tespit"
+
+#: ../html/about.php:107
+msgid "A lot of selection on social networks"
+msgstr "Sosyal ağlar üzerinde seçim bir sürü"
+
+#: ../html/about.php:108
+msgid "Shortcode on pages, posts and text widgets"
+msgstr "Sayfaları, mesaj ve metin aletler üzerinde Kısa kod"
+
+#: ../html/about.php:109
+msgid "Twenty Awesome Designs, choose your style"
+msgstr "Yirmi Başar Tasarımlar, tarzınızı seçin"
+
+#: ../html/about.php:110
+msgid "Fully responsive"
+msgstr "Tamamen responsive"
+
+#: ../html/about.php:111
+msgid "Share button with modal"
+msgstr "Modal ile paylaş butonu"
+
+#: ../html/about.php:112 ../html/about.php:143
+msgid "Share away on the EMail"
+msgstr "EMail uzak paylaş"
+
+#: ../html/about.php:113
+msgid "Print page / post"
+msgstr "Sayfayı yazdır / post"
+
+#: ../html/about.php:114
+msgid "Privacy Infobox"
+msgstr "Gizlilik Infobox"
+
+#: ../html/about.php:115
+msgid "Content before / after short share link"
+msgstr "Kısa paylaşım bağlantısını önce / sonra içeriği"
+
+#: ../html/about.php:116
+msgid "Statistics overview"
+msgstr "İstatistik genel bakış"
+
+#: ../html/about.php:117
+msgid "Show total clicks"
+msgstr "Toplam Tıklanma"
+
+#: ../html/about.php:118
+msgid "Show share clicks"
+msgstr "Toplam Paylasim"
+
+#: ../html/about.php:119
+msgid "Show follow clicks"
+msgstr "Toplam takip"
+
+#: ../html/about.php:123 ../sharing-social-safe.php:73
+msgid "Options"
+msgstr "Seçenekler"
+
+#: ../html/about.php:125
+msgid "Choose your layout (One-Click)"
+msgstr "Düzeninizi seçin (Bir-klik)"
+
+#: ../html/about.php:126
+msgid ""
+"Shortcode to share on the simplest way all (with shortcode in WP Rich Text "
+"Editor)"
+msgstr ""
+"Kısa kod (WP Zengin Metin Düzenleyicisi'nde SHORTCODE ile) en basit şekilde "
+"tüm paylaşmak için"
+
+#: ../html/about.php:127
+msgid "Widgets (to share on the very simplest way all)"
+msgstr "Widget'lar (yol, hepsi çok basit paylaşmak için)"
+
+#: ../html/about.php:128
+msgid "Optional inform the customer about your privacy policy"
+msgstr "İsteğe bağlı gizlilik politikası hakkında müşteriyi bilgilendirmek"
+
+#: ../html/about.php:129
+msgid "Optional parameters that are available to him"
+msgstr "Ona mevcuttur İsteğe bağlı parametreler"
+
+#: ../html/about.php:130
+msgid "Optional Content before / after short share link"
+msgstr "Kısa paylaşım bağlantısını önce / sonra isteğe bağlı içerik"
+
+#: ../html/about.php:131
+msgid "Optional activate bitly interface"
+msgstr "bitly arayüzü etkinleştirmek Opsiyonel"
+
+#: ../html/about.php:132
+msgid "Optional show/hide Copyright"
+msgstr "Opsiyonel göstermek / gizlemek Telif"
+
+#: ../html/about.php:133
+msgid "Optional show/hide Privacy Box"
+msgstr "Opsiyonel göstermek / gizlemek Gizlilik Kutusu"
+
+#: ../html/about.php:134
+msgid "Optional show/hide Share Counts"
+msgstr "Opsiyonel göstermek / gizlemek Hisse Sayımlar"
+
+#: ../html/about.php:135
+msgid "Optional show/hide additional FontAwesome"
+msgstr "Opsiyonel göstermek / gizlemek Başar ek Yazı"
+
+#: ../html/about.php:136
+msgid "Delete click from Statistics"
+msgstr "İstatistik tıklayın Sil"
+
+#: ../html/about.php:140
+msgid "Extras"
+msgstr "Ekstralar"
+
+#: ../html/about.php:142
+msgid "Supports"
+msgstr "Destekler"
+
+#: ../html/about.php:144
+msgid "Print and share"
+msgstr "Baskı ve paylaşmak"
+
+#: ../html/about.php:156
+msgid "In like please give"
+msgstr "Beğendiğnizde lütfen"
+
+#: ../html/about.php:159
+msgid "WordPress Rate"
+msgstr "WordPress  Oran"
+
+#: ../html/about.php:170
+msgid ""
+"Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr "Çekinmeyin ve soru Öneri, Fikir ya da Eleştiri sonrası. Onu seviyoruz!"
+
+#: ../html/about.php:172
+msgid "For Plugin English Support"
+msgstr "Eklenti İngilizce Desteği"
+
+#: ../html/about.php:173
+msgid "Support EN"
+msgstr "Destek EN"
+
+#: ../html/about.php:175
+msgid "For Plugin German Support"
+msgstr "Eklenti Alman Desteği"
+
+#: ../html/about.php:176
+msgid "Support DE"
+msgstr "Destek DE"
+
+#: ../html/about.php:178
+msgid "For Plugin Turkey Support"
+msgstr "Eklenti Türkiye Destek"
+
+#: ../html/about.php:179
+msgid "Support TR"
+msgstr "Destek TR"
+
+#: ../html/about.php:188
+msgid "Development "
+msgstr "Gelişme"
+
+#: ../html/about.php:192
+msgid "Author"
+msgstr "Yazar"
+
+#: ../html/about.php:197
+msgid "Founder and Project Manager"
+msgstr "Kurucu ve Proje Yöneticisi"
+
+#: ../html/about.php:203
+msgid "Contributors"
+msgstr "Katkıda"
+
+#: ../html/about.php:208
+msgid "Economic Computer Science"
+msgstr "Ekonomik Bilgisayar Bilimleri"
+
+#: ../html/about.php:213
+msgid "Marketing"
+msgstr "Pazarlama"
+
+#: ../html/about.php:219
+msgid "Developer"
+msgstr "Geliştirici"
+
+#: ../html/about.php:230
+msgid "Thanks all Translaters"
+msgstr "Teşekkürler tüm Çevirmenler"
+
+#: ../html/about.php:232
+msgid "Translate this Plugin"
+msgstr "Bu Eklenti Çevirin"
+
+#: ../html/about.php:232
+msgid "Translate"
+msgstr "Çevirmek"
+
+#: ../html/about.php:241
+msgid "Development is fueled by your praise and feedback"
+msgstr "Kalkınma için övgü ve geribildirim tarafından yakıt"
+
+#: ../html/about.php:245
+msgid ""
+"In how you can support us so that we can further develop this plugin "
+"regularly, it may not always be financially, so you will give us feedback or "
+"recommend us, please give us a review, Liken our Facebook page or sponsor "
+"us, so that we further useful free plugins can develop."
+msgstr ""
+"Biz daha fazla düzenli olarak bu eklentiyi geliştirebilmek için ve böylece "
+"bize destek nasıl olabilirsiniz, her zaman, maddi olmayabilir, bize geri "
+"bildirimde ya da bizi tavsiyede, bize bir daha gözden geçirme Facebook "
+"sayfamızı benzetmek veya bizimle sponsor olmak yardımçı olabilirsiniz, bizde "
+"daha yararlı ücretsiz eklentileri gelişebilelim. "
+
+#: ../html/about.php:248
+msgid ""
+"You see, it is much more possible if you want to support something, thanks "
+"to all the Support Us."
+msgstr ""
+"Gördüğnüz gibi daha fazlasi mümkün, birseyi desteklemek istediğiniz zaman, "
+"tüm destekleyenlere Teşekkürler."
+
+#: ../html/about.php:254
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr ""
+"PayPal ile - Şimdi basit, hızlı ve güvenli bir şekilde internet üzerinden "
+"öderler."
+
+#: ../html/about.php:258
+msgid "LOOK FOR SPONSOR !!!"
+msgstr "SPONSOR ARIYORUZ !!!"
+
+#: ../html/about.php:261
+msgid "Your Melibu Team"
+msgstr "Sizin Melibu Takımı"
+
+#: ../html/design.php:46 ../html/optional.php:46 ../html/privacy.php:46
+#: ../html/settings.php:46 ../html/stats.php:39 ../html/welcome.php:22
+msgid "Professional Themes and Plugins for WordPress"
+msgstr "Professional Themes and Plugins for WordPress"
+
+#: ../html/design.php:56 ../html/optional.php:56 ../html/privacy.php:56
+#: ../html/settings.php:56 ../html/stats.php:49
+msgid "Settings saved!"
+msgstr "Ayarlar kaydedildi!"
+
+#: ../html/design.php:82 ../html/other/bitly.php:30 ../html/other/copy.php:21
+#: ../html/other/fontawesome.php:23 ../html/social/message.php:16
+#: ../html/social/share.php:44 ../html/social/share.php:114
+#: ../html/social/share.php:148
+msgid "Description"
+msgstr "Tanım"
+
+#: ../html/design.php:83 ../html/social/message.php:17
+msgid "Basic"
+msgstr "Temel"
+
+#: ../html/design.php:87
+msgid "Preview"
+msgstr "Önizleme"
+
+#: ../html/design.php:88
+msgid "Here you have a preview non active, you can click it."
+msgstr "Burada bir önizleme devre dışı kalır, bunu tıklayabilirsiniz."
+
+#: ../html/design.php:89
+msgid "Share Us"
+msgstr "Paylaş"
+
+#: ../html/design.php:91
+msgid "Follow Us"
+msgstr "Takip"
+
+#: ../html/design.php:93 ../html/welcome.php:119
+msgid "Layout"
+msgstr "Düzen"
+
+#: ../html/design.php:94
+msgid ""
+"You can make a selection with one click, the new design is stored and "
+"displayed immediately here between several MeliBu layouts."
+msgstr ""
+"Tek bir tıklama ile bir seçim yapabilirsiniz, yeni tasarım saklanır ve "
+"birkaç Melibu düzenleri arasında hemen burada görüntülenir."
+
+#: ../html/design.php:96
+msgid "Go watch in the mobile view to the mobile icons also."
+msgstr "Ayrıca mobil simgeler için mobil görünümüne geçin."
+
+#: ../html/design.php:99
+msgid ""
+"Pinterest is displayed if you have included an image in your page, Melibu "
+"automatically switches to link to when an image has been found, (This "
+"applies to side photos Post photos) once you have added options in the short "
+"code."
+msgstr ""
+"Pinterest kısa kod seçenekleri ekledikten sonra (Bu Resim gönder "
+"fotoğrafları yan geçerlidir), sayfanızda bir resim dahil varsa, Melibu "
+"otomatik bir görüntü bulunduğunda link geçer görüntülenir."
+
+#: ../html/design.php:112 ../html/optional.php:87 ../html/privacy.php:87
+#: ../html/settings.php:92 ../html/stats.php:59
+msgid "Thank you for your confidence in"
+msgstr "Olan güveniniz için teşekkür ederiz"
+
+#: ../html/design.php:125 ../html/optional.php:100
+msgid ""
+"Do you know, the MeliBu WP Download Counter Button. Turn your downloads into "
+"a highlight in seconds and get statistics about your download"
+msgstr ""
+"Tanidinizmi MeliBu WP MeliBu WP Download Counter Button. Saniyede bir "
+"vurgulamak içine indirme açın ve indirmek ilgili istatistikleri almak"
+
+#: ../html/design.php:127 ../html/optional.php:102 ../html/privacy.php:102
+msgid "More..."
+msgstr "Daha..."
+
+#: ../html/design.php:134
+msgid ""
+"Get more statistics, with Melibu WP hits. Learn which share button is "
+"clicked the most and many more"
+msgstr ""
+"Melibu WP hit ile daha fazla istatistik, olsun. daha çok ve pek çok "
+"tıklandığında hangi paylaş düğmesi öğrenin"
+
+#: ../html/design.php:136 ../html/design.php:145
+msgid "Coming soon"
+msgstr "Çok yakında"
+
+#: ../html/design.php:143
+msgid ""
+"Our feedback Generate's position all possible forms to create in seconds. "
+"Thanks to the sophisticated Melibus Drag N Drop system with live preview you "
+"can also see immediately what you are doing. And much more..."
+msgstr ""
+"Feedback saniye içinde yaratmak için mümkün olan tüm formları konumunu "
+"oluşturun. Ayrıca hemen ne yaptığınızı görebilirsiniz canlı önizleme ile "
+"gelişmiş Melibus Drag N Drop sistemi sayesinde. Ve daha fazlası..."
+
+#: ../html/other/bitly.php:31 ../html/other/copy.php:22
+#: ../html/other/fontawesome.php:24 ../html/social/share.php:45
+#: ../html/social/share.php:115 ../html/social/share.php:149
+msgid "Setting"
+msgstr "Ayar"
+
+#: ../html/other/bitly.php:32 ../html/other/copy.php:23
+#: ../html/other/fontawesome.php:25 ../html/social/share.php:46
+#: ../html/social/share.php:116 ../html/social/share.php:150
+msgid "Example"
+msgstr "Örnek"
+
+#: ../html/other/bitly.php:37
+msgid "Here you can disable/enable"
+msgstr "Burada devre dışı bırakabilirsiniz / etkinleştirebilirsiniz"
+
+#: ../html/other/bitly.php:39
+msgid ""
+"You also have to remember that the activated shortcodes are automatically "
+"registered as a link in bitly, even if you have not clicked on, so if you "
+"clicked, the bitly url will be used"
+msgstr ""
+"Ayrıca tıkladığınız olsanız bile aktive kısayollar otomatik bitly bir "
+"bağlantı olarak kayıtlı olduğunu hatırlamak zorunda, bu yüzden tıkladığınız "
+"takdirde, bitly url kullanılacaktır"
+
+#: ../html/other/bitly.php:40 ../html/other/fontawesome.php:31
+msgid "More information about"
+msgstr "Hakkında daha fazla bilgi"
+
+#: ../html/other/bitly.php:47
+msgid "Click here to authorize using your bitly account"
+msgstr "bitly hesabınızı kullanarak yetki için buraya tıklayın"
+
+#: ../html/other/bitly.php:52
+msgid "Error"
+msgstr "Hata"
+
+#: ../html/other/bitly.php:57
+msgid "bitly connect successfully created"
+msgstr "bitly başarıyla oluşturuldu"
+
+#: ../html/other/bitly.php:59 ../html/social/youtube.php:17 ../tpl/oauth.php:28
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: ../html/other/bitly.php:66
+msgid "Access Token"
+msgstr "Erişim Jetonu"
+
+#: ../html/other/bitly.php:81
+msgid "Disable / Enable"
+msgstr "Devre dışı bırak / devreye sok"
+
+#: ../html/other/bitly.php:82
+msgid "Enable to check on bitly how often your backlinks clicked"
+msgstr "Geri tıklandığında bitly ne sıklıkta kontrol etmek için etkinleştirme"
+
+#: ../html/other/bitly.php:86 ../html/other/copy.php:45
+#: ../html/other/fontawesome.php:45 ../html/social/message.php:49
+#: ../html/social/optional.php:124 ../html/social/share.php:107
+#: ../html/social/share.php:137 ../html/social/share.php:171
+#: ../html/social/youtube.php:25
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../html/other/copy.php:27
+msgid "Support us"
+msgstr "Bizi destekle"
+
+#: ../html/other/copy.php:28 ../html/other/fontawesome.php:30
+msgid "Here you can show/hide"
+msgstr "Burada gösterebilir veya gizleiyebilirsiniz"
+
+#: ../html/other/copy.php:29
+msgid "Please activate this to help us, for share this plugin"
+msgstr "Hisse bu eklenti için , bu bize yardımcı olmak için aktive edin"
+
+#: ../html/other/copy.php:41 ../html/other/fontawesome.php:41
+#: ../html/social/share.php:80 ../html/social/share.php:99
+#: ../html/social/share.php:133 ../html/social/share.php:167
+msgid "Turn On"
+msgstr "Aç"
+
+#: ../html/privacy.php:100
+msgid ""
+"Do you know, the MeliBu WP Syntax High Lighter. Turn your code into a "
+"highlight in seconds with short codes in WP Texteditor"
+msgstr ""
+"Tanidinizmi MeliBu WP Syntax High Lighter. WP texteditor kısa kodları ile "
+"saniyeler içinde bir vurgulamak içine kodunu açmak"
+
+#: ../html/settings.php:81
+msgid "Others"
+msgstr "Diğerleri"
+
+#: ../html/settings.php:84
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../html/social/dummy_follow.php:33
+msgid ""
+"This they set in MeliBu Find us widget. There you can add to your profiles "
+"or pages the buttons with the left. Once you have set the widget on your "
+"needs you can also use the short code anywhere."
+msgstr ""
+"Onlar MeliBu ayarlanan Bu widget bizi bulun. Orada profilleri veya sayfalara "
+"düğmeler ekleyebilirsiniz. Eğer sizin ihtiyaçlarınıza Widget ayarladıktan "
+"sonra da her yerde kısa kodu kullanabilirsiniz."
+
+#: ../html/social/dummy_follow.php:42 ../html/social/dummy_share.php:23
+msgid ""
+"That is the short code. You can use a short code on a page, a post or place "
+"them in a widget. Or you can use the short code that is integrated into your "
+"editor, just click and the short code is placed. You can copy the short code "
+"editing and double click with."
+msgstr ""
+"Bu kısa bir koddur. Bir sayfa, bir yazı üzerine kısa bir kod kullanın veya "
+"bir widget yerleştirebilirsiniz. Ya da editör entegre edilir kısa kodu "
+"kullanabilirsiniz, sadece tıklayın ve kısa kod yerleştirilir. Sen kısa kod "
+"düzenleme ve çift tıklama kopyalayabilirsiniz."
+
+#: ../html/social/dummy_follow.php:43 ../html/social/dummy_share.php:24
+msgid "Please take the short code to copy"
+msgstr "Kopyalamak için kısa bir kod alınız"
+
+#: ../html/social/dummy_options.php:21 ../html/welcome.php:122
+msgid "MB One Button"
+msgstr "MB Tek Düğme"
+
+#: ../html/social/dummy_options.php:31 ../html/welcome.php:123
+msgid "MB Glow"
+msgstr "MB Parıltı"
+
+#: ../html/social/dummy_options.php:41 ../html/welcome.php:124
+msgid "MB Glow Dark"
+msgstr "MB Parıltı Kara"
+
+#: ../html/social/dummy_options.php:51 ../html/welcome.php:125
+msgid "MB Special Overlap"
+msgstr "MB Özel Üst Üste"
+
+#: ../html/social/dummy_options.php:61 ../html/welcome.php:126
+msgid "MB Shining Dark Short"
+msgstr "MB Parlıyor Koyu Kısa"
+
+#: ../html/social/dummy_options.php:71 ../html/welcome.php:127
+msgid "MB Glow Semicircle"
+msgstr "MB Parıltı Yarım Daire"
+
+#: ../html/social/dummy_options.php:81 ../html/welcome.php:128
+msgid "MB Glow Circle"
+msgstr "MB Parıltı Daire"
+
+#: ../html/social/dummy_options.php:91 ../html/welcome.php:129
+msgid "MB Flat"
+msgstr "MB Düz"
+
+#: ../html/social/dummy_options.php:101 ../html/welcome.php:130
+msgid "MB Flat Smooth"
+msgstr "MB Düz Pürüzsüz"
+
+#: ../html/social/dummy_options.php:111 ../html/welcome.php:131
+msgid "MB Flat Smooth Dark"
+msgstr "MB Düz Pürüzsüz Kara"
+
+#: ../html/social/dummy_options.php:121 ../html/welcome.php:132
+msgid "MB Flat Semicircle"
+msgstr "MB Düz Yarım Daire"
+
+#: ../html/social/dummy_options.php:131 ../html/welcome.php:133
+msgid "MB Flat Semicircle Smooth"
+msgstr "MB Düz Yarım Daire Pürüzsüz"
+
+#: ../html/social/dummy_options.php:141 ../html/welcome.php:134
+msgid "MB Flat Circle Smooth"
+msgstr "MB Düz Daire Pürüzsüz"
+
+#: ../html/social/dummy_options.php:151 ../html/welcome.php:135
+msgid "MB Flat Circle Switch"
+msgstr "MB Düz Yuvarlak Anahtarı"
+
+#: ../html/social/dummy_options.php:161 ../html/welcome.php:136
+msgid "MB Flat Long (Default)"
+msgstr "MB Düz Uzun (Varsayılan)"
+
+#: ../html/social/dummy_options.php:171 ../html/welcome.php:137
+msgid "MB Flat Long Rotate Icon"
+msgstr "MB Düz Uzun Dönden Simge"
+
+#: ../html/social/dummy_options.php:181 ../html/welcome.php:138
+msgid "MB Long Rounded"
+msgstr "MB Uzun Yuvarlak"
+
+#: ../html/social/dummy_options.php:191 ../html/welcome.php:139
+msgid "MB Shining Dark"
+msgstr "MB Koyu Parlıyor"
+
+#: ../html/social/dummy_options.php:201 ../html/welcome.php:140
+msgid "MB Shining Dark Line"
+msgstr "MB Koyu Parlıyor Çizgi"
+
+#: ../html/social/dummy_options.php:211 ../html/welcome.php:141
+msgid "MB Flat Full Width"
+msgstr "MB Düz Tam Genişlik"
+
+#: ../html/social/dummy_share.php:14
+msgid ""
+"When parts need to configure anything, unless you use the optional "
+"parameters, otherwise you can use immediately on the MeliBu widget or via "
+"short code."
+msgstr ""
+"Parça isteğe bağlı parametreleri kullanmadığınız sürece, hiçbir şey "
+"yapmanıza gerekmez, MeliBu widget ya da kısa kod üzerinden hemen "
+"kullanabilirsiniz."
+
+#: ../html/social/facebook.php:12
+msgid "Your quote the Post"
+msgstr "Sizin Gönder Mesaj"
+
+#: ../html/social/facebook.php:17
+msgid "A quote to be shared along with the link"
+msgstr "Bir alıntı link ile birlikte ortak olmak"
+
+#: ../html/social/facebook.php:19 ../html/social/optional.php:59
+#: ../html/social/optional.php:73 ../html/social/optional.php:87
+#: ../html/social/optional.php:101 ../html/social/optional.php:115
+#: ../html/social/twitter.php:19 ../html/social/xing.php:19
+msgid "Want you more information"
+msgstr "Daha fazla bilgi istiyorumusunuz"
+
+#: ../html/social/message.php:21
+msgid "Privacy defaults"
+msgstr "Gizlilik varsayılan"
+
+#: ../html/social/message.php:22
+msgid "Your Information to the Users"
+msgstr "Kullanıcılar için Bilgiler"
+
+#: ../html/social/message.php:28
+msgid "Your Message"
+msgstr "Mesajın"
+
+#: ../html/social/message.php:29
+msgid "Here appears after save your information to your users. (See preview)"
+msgstr ""
+"Burada sonra kullanıcılara bilgileri kaydetmek görünür. (Önizleme bakınız)"
+
+#: ../html/social/message.php:33
+msgid ""
+"This information is shown with a small round question mark next to your part "
+"buttons, so you can inform each user immediately about the part of the left."
+msgstr ""
+"Sol parçası hakkında derhal her kullanıcıyı bilgilendirmek, böylece bu "
+"bilgiler, yanındaki parça düğmelerinin küçük yuvarlak soru işareti "
+"gösterilir."
+
+#: ../html/social/message.php:41
+msgid "Text"
+msgstr "Metin"
+
+#: ../html/social/message.php:44
+msgid "Link"
+msgstr "Bağlantı"
+
+#: ../html/social/optional.php:15
+msgid "Information about the used part Buttons and Optional Parameters"
+msgstr "Kullanılan kısmı Düğmeler ve İsteğe Bağlı Parametreler hakkında bilgi"
+
+#: ../html/social/optional.php:22
+msgid "Used Parameters"
+msgstr "Kullanılan Parametreler"
+
+#: ../html/social/share.php:68
+msgid "Content before short share link"
+msgstr "Kısa paylaşım bağlantısını önce içerik"
+
+#: ../html/social/share.php:69
+msgid "Here you can show/hide Share Buttons with Modal before the Content"
+msgstr "Burada İçerik önce Modal ile / gizlemek Hisse Düğmeleri gösterebilir"
+
+#: ../html/social/share.php:70 ../html/social/share.php:89
+msgid "Activate this to share quickly"
+msgstr "Hızla paylaşmak için bu etkinleştirin"
+
+#: ../html/social/share.php:87
+msgid "Content after short share link"
+msgstr "Kısa paylaşım bağlantısını sonra içerik"
+
+#: ../html/social/share.php:88
+msgid "Here you can show/hide Share Buttons with Modal after the Content"
+msgstr "Burada İçerik sonra Modal ile / gizlemek Hisse Düğmeleri gösterebilir"
+
+#: ../html/social/share.php:120
+msgid "Showing how often divided"
+msgstr "Bölünmüş ne sıklıkta gösteriliyor"
+
+#: ../html/social/share.php:121
+msgid "Here you can show/hide the count of shares"
+msgstr "Burada hisse sayısını gösterebilir veya gizleiyebilirsiniz"
+
+#: ../html/social/share.php:154
+msgid "Privacy Box"
+msgstr "Gizlilik Kutusu"
+
+#: ../html/social/share.php:155
+msgid "Here you can show/hide the privacy box"
+msgstr "Gizlilik Kutusunu burda gösterebilir veya gizleiyebilirsiniz"
+
+#: ../html/social/twitter.php:12
+msgid "Your Twitter via @username"
+msgstr "@ kullancıadı aracılığıyla Twitter"
+
+#: ../html/social/twitter.php:17
+msgid "Your username will be hung on the Share Button"
+msgstr "Kullanıcı adınız Hisse Düğmesi asılacaktır"
+
+#: ../html/social/xing.php:12
+msgid "Your Xing follow Page"
+msgstr "Sizin Xing takip Sayfa"
+
+#: ../html/social/xing.php:17
+msgid ""
+"You can place a Follow plugin on the success page displayed after a "
+"successful share"
+msgstr ""
+"Başarılı bir pay sonra görüntülenen başarı sayfasında Takip eklentisi "
+"yerleştirebilirsiniz"
+
+#: ../html/welcome.php:44
+msgid "This documentation should help you."
+msgstr "Bu belge size yardımcı olacaktır."
+
+#: ../html/welcome.php:56
+msgid "Start"
+msgstr "Başlama"
+
+#: ../html/welcome.php:107
+msgid "To use Melibu WP Sharing Social Safe properly"
+msgstr "Düzgün Malibu WP Paylaşımı Sosyal Güvenli kullanmak için"
+
+#: ../html/welcome.php:108
+msgid "Thank you that you use MeliBu WP Sharing Social Safe"
+msgstr "MeliBu WP Sharing Social Safe kullanmanız teşekkür ederim"
+
+#: ../html/welcome.php:109
+msgid ""
+"Protects you and access your users against unauthorized, it was specifically "
+"designed"
+msgstr ""
+"Özel olarak tasarlanan, sizi korur ve yetkisiz karşı kullanıcıların erişmek"
+
+#: ../html/welcome.php:110
+msgid ""
+"We offer you a bitly interface to share your shared pages and posts faster "
+"than backlinks and get information, you can see how often the split link was "
+"clicked and much more"
+msgstr ""
+"Biz ve bölünmüş link tıklandığında ne sıklıkta görebilirsiniz size çok daha "
+"fazla ortak sayfaları ve daha hızlı geri daha Mesajları paylaşmak ve bilgi "
+"almak için bir bitly arayüzü sunuyoruz"
+
+#: ../html/welcome.php:118
+msgid "Let's start now with the button designs"
+msgstr "Düğme tasarımları ile başlayalım"
+
+#: ../html/welcome.php:120
+msgid ""
+"First you have the opportunity to select a predefined template, in the free "
+"version are these"
+msgstr ""
+"Önce önceden tanımlanmış bir şablonu seçmek için fırsat var, ücretsiz sürümü "
+"bunlar"
+
+#: ../html/welcome.php:143
+msgid "Select your social button"
+msgstr "Sosyal düğmesini seçin"
+
+#: ../html/welcome.php:151
+msgid "Share and Follow stats"
+msgstr "Paylaşın ve istatistikleri takip"
+
+#: ../html/welcome.php:152
+msgid "An overview with different data shared/followed and tracked events"
+msgstr "Farklı veri ile bir bakış takip / paylaştı ve olayları takip"
+
+#: ../html/welcome.php:153 ../html/welcome.php:195
+msgid "Set it"
+msgstr "Ayarla"
+
+#: ../html/welcome.php:161
+msgid ""
+"Share buttons prevent all automatically unauthorized access to your website, "
+"no third party data is transferred unless you clicked"
+msgstr ""
+"Tıkladığınız sürece Hisse düğmeleri web sitenize tüm otomatik yetkisiz "
+"erişimi önlemek, üçüncü taraf veri aktarılır"
+
+#: ../html/welcome.php:162
+msgid "Refer to Privacy Policy"
+msgstr "Gizlilik Politikası bakın"
+
+#: ../html/welcome.php:163
+msgid ""
+"The privacy box is only intended for information purposes to your users, if "
+"they so wish"
+msgstr ""
+"Isterlerse eğer gizlilik kutusu sadece, kullanıcılara bilgilendirme amaçlıdır"
+
+#: ../html/welcome.php:172 ../html/welcome.php:175
+msgid "Optionals"
+msgstr "Opsiyonel"
+
+#: ../html/welcome.php:173
+msgid "Optional parameters"
+msgstr "İsteğe bağlı parametreler"
+
+#: ../html/welcome.php:174
+msgid ""
+"These parameters are optional and do not have to be filled in, however, they "
+"can be used and serve as information purposes"
+msgstr ""
+"Bu parametreler, ancak, kullanılan bilgi amaçlı olarak hizmet olabilir, "
+"isteğe bağlı ve doldurulması gerekmez"
+
+#: ../html/welcome.php:184
+msgid "Show how often was shared"
+msgstr "Paylaşıldığını ne sıklıkta göster"
+
+#: ../html/welcome.php:185
+msgid ""
+"Each link is counted automatically when it is clicked, so you can track "
+"everything and stay up-to-date"
+msgstr ""
+"Tıklandığında her bağlantı otomatik olarak sayılır, bu yüzden her şeyi "
+"izlemek ve kalabilirler up-to-date"
+
+#: ../html/welcome.php:186 ../html/welcome.php:192
+msgid "Activate it"
+msgstr "Bunu etkinleştirmek"
+
+#: ../html/welcome.php:191
+msgid ""
+"And this is not enough, we offer bitly as an additional option. You can "
+"continue with bitly the split links still further and see thus statistics of "
+"the links which have landed on the social networks and be clicked. So he "
+"does not miss anything and you know about every link"
+msgstr ""
+"Ve bu biz ek bir seçenek olarak bitly teklif yeterli değil. Hala daha bitly "
+"bölünmüş bağlantıları ile devam edecek ve böylece sosyal ağlar inmiş ve "
+"tıklanma bağlantıları istatistikleri görebilirsiniz. O yüzden bir şey "
+"özledim değildir ve her bağlantı hakkında bilmek"
+
+#: ../html/welcome.php:194
+msgid "You can make and optimize with many various settings"
+msgstr "Birçok çeşitli ayarlar ile optimize edebilirsiniz"
+
+#: ../html/welcome.php:203
+msgid ""
+"Use the short code in your WP Editor for set your shares/follows or copy, "
+"paste and set manually"
+msgstr ""
+"Için WP Editör kısa kod kullanın hisseleri / izler veya kopyalama, "
+"yapıştırma ayarlamak ve el set"
+
+#: ../html/welcome.php:209
+msgid ""
+"Without this shortcode does not share or follow the old version should be "
+"replaced if possible by the latest. Both versions work but could be a fault "
+"occur when another plugin also the name download has a shortcode"
+msgstr ""
+"Eski sürümü paylaşabilir veya takip etmez, bu SHORTCODE olmadan en geç "
+"mümkünse değiştirilmesi gerekir. Her iki versiyon da çalışır ancak başka "
+"eklenti aynı zamanda isim indirme Kısa kod olduğunda bir arıza meydana "
+"olabilir"
+
+#: ../html/welcome.php:213
+msgid ""
+"With the share parameter you can specify which social networks are to be "
+"listed for tracking on the respective networks"
+msgstr ""
+"Hisse parametresi ile sosyal ağlar, ilgili ağlarda izlemek için listelenecek "
+"hangi belirtebilirsiniz"
+
+#: ../html/welcome.php:217
+msgid ""
+"With the follow parameter, you can specify which social networks are listed "
+"for tracking on the respective networks"
+msgstr ""
+"Takip parametresi ile ilgili ağlarda izlemek için listelenen hangi sosyal "
+"ağlar belirtebilirsiniz"
+
+#: ../html/welcome.php:224
+msgid ""
+"That is the SHARE short code. You can copy a short code and place on a page, "
+"post or in a widget. Or use the short code has been integrated into your "
+"editor, a click is enough and the part buttons after save visible"
+msgstr ""
+"Bu HİSSE kısa kodudur. Kısa bir kodu kopyalayın ve bir sayfa, yazı veya bir "
+"widget yerleştirebilirsiniz. Ya da editör entegre edilmiştir kısa kodu "
+"kullanabilirsiniz, bir tık yeterli ve parça düğmeleri sonra görünür kurtarmak"
+
+#: ../html/welcome.php:228 ../html/welcome.php:236
+msgid "Please take the short code double click to copy"
+msgstr "Kopyalamak için kısayol çift tıklayarak alınız"
+
+#: ../html/welcome.php:232
+msgid ""
+"That is the FOLLOW short code. You can copy a short code and place on a "
+"page, post or in a widget. Or use the short code has been integrated into "
+"your editor, a click is enough and the part buttons after save visible"
+msgstr ""
+"Bu TAKİP kısa kodudur. Kısa bir kodu kopyalayın ve bir sayfa, yazı veya bir "
+"widget yerleştirebilirsiniz. Ya da editör entegre edilmiştir kısa kodu "
+"kullanabilirsiniz, bir tık yeterli ve parça düğmeleri sonra görünür kurtarmak"
+
+#: ../html/welcome.php:240
+msgid "You can set for the short code standard settings"
+msgstr "Kısa kod standart ayarları için ayarlayabilirsiniz"
+
+#: ../html/welcome.php:241
+msgid "Set it now"
+msgstr "Şimdi ayarla"
+
+#: ../html/welcome.php:254
+msgid "Use Short code in WP Editor"
+msgstr "WP Düzenleyicisi'nde Kısa kod kullanın"
+
+#: ../html/welcome.php:255
+msgid "Take your part to put the buttons shortcode in WP editor Melibu"
+msgstr "WP editörü Malibu düğmeleri Kısa kod koymak için katılmak"
+
+#: ../html/welcome.php:261
+msgid "Use Follow Widget"
+msgstr "Takip Widget kullanin"
+
+#: ../html/welcome.php:262
+msgid "Use the Social follow widget to close attention"
+msgstr "Dikkat çekmek için Sosyal takip widget kullanın"
+
+#: ../tpl/modal.php:53 ../tpl/oauth.php:48
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../tpl/oauth.php:34
+msgid "Password"
+msgstr "Parola"
+
+#: ../tpl/oauth.php:46
+msgid "Get access"
+msgstr "Erişim Al"
+
+#~ msgid "Social"
+#~ msgstr "Sosyal"
+
+#~ msgid ""
+#~ "If you activate bitly, you must remember that you have to expect "
+#~ "performance loss. Since every link that leads to your page where you have "
+#~ "set a shortcode is converted into a bitly url, so that you can monitor "
+#~ "the backlink behave"
+#~ msgstr ""
+#~ "Eğer bitly aktif hale getirirseniz, size performans kaybı beklemek "
+#~ "zorunda unutmamalıyız. Eğer backlink davranmaya izleyebilirsiniz, böylece "
+#~ "bir bitly url dönüştürülür bir SHORTCODE kurdunuz sayfanıza yol açan her "
+#~ "linke yana"
+
+#~ msgid "Successfully created bitly connect"
+#~ msgstr "Başarıyla bağlanmak bitly oluşturulan"
+
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook beğen"
+
+#~ msgid "Check on bitly how often your backlinks clicked"
+#~ msgstr "Geri tıklandığında bitly ne sıklıkla kontrol"
+
+#~ msgid "No bitly found"
+#~ msgstr "bitly bulunamadi"
+
+#~ msgid "Your login and Api key can be found in your Bitly Account at"
+#~ msgstr ""
+#~ "Oturum açma ve Api anahtarı adresinden Bitly Hesabınızda bulunabilir"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Gelişmiş Ayarlar"
+
+#~ msgid "API Support"
+#~ msgstr "API Desteği"
+
+#~ msgid "Login name"
+#~ msgstr "Kullanıcı adı"
+
+#~ msgid "Api Key"
+#~ msgstr "Api Anahtarı"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Google + 'da paylaş"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Facebook'ta Paylaş"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Twitter'da paylaş"
+
+#~ msgid "Share on Xing"
+#~ msgstr "Xing üzerinde Paylaş"
+
+#~ msgid "Share on LinkedIn"
+#~ msgstr "LinkedIn'de paylaş"
+
+#~ msgid "Pin on Pinterest"
+#~ msgstr "Pinterest Pin"
+
+#~ msgid "Share on tumblr"
+#~ msgstr "tumblr üzerinde Paylaş"
+
+#~ msgid "Share with Mail"
+#~ msgstr "Mail ile paylaş"
+
+#~ msgid "Share on WhatsApp"
+#~ msgstr "WhatsApp üzerinde Paylaş"
+
+#~ msgid "Agent"
+#~ msgstr "Ajan"
+
+#~ msgid "Shares"
+#~ msgstr "Paylar"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "Share us widget"
+#~ msgstr "Widget bizi paylaş"
+
+#~ msgid "Find us widget"
+#~ msgstr "Widget bizi bulun"
+
+#~ msgid "Use the shortcode on pages, posts and text widgets"
+#~ msgstr "sayfaları, mesaj ve metin aletler üzerinde Kısa kod kullanın"
+
+#~ msgid "Sharing buttons with simple links"
+#~ msgstr "Basit bağlantılar ile düğmeleri paylaşımı"
+
+#~ msgid "Title short share link with Modal"
+#~ msgstr "Modal başlık kısa pay bağlantı"
+
+#~ msgid "Statistics click overview"
+#~ msgstr "İstatistik genel bakış"
+
+#~ msgid "Show share counts"
+#~ msgstr "Göster pay sayımları"
+
+#~ msgid "On optional parameters that are available to him"
+#~ msgstr "Isteğe bağlı parametreleri mevcuttur"
+
+#~ msgid "You decide which buttons really are visible"
+#~ msgstr "Hangi düğmeleri gerçekten görünür, Siz karar verin"
+
+#~ msgid "Inform the customer about your privacy policy"
+#~ msgstr "Gizlilik politikası hakkında müşteriyi bilgilendirmek"
+
+#~ msgid "Optional Title short share link with Modal"
+#~ msgstr "Modal Opsiyonel Başlık kısa paylaşım bağlantı"
+
+#~ msgid "Optional show/hide Melibu Copyright"
+#~ msgstr "Opsiyonel göstermek/gizlemek Melibu Copyright"
+
+#~ msgid "Optional show/hide Melibu Privacy Box"
+#~ msgstr "Opsiyonel göstermek/gizlemek Melibu Privacy Box"
+
+#~ msgid "Optional show/hide Melibu Share Counts"
+#~ msgstr "Opsiyonel göstermek/gizlemek Melibu Share Counts"
+
+#~ msgid "Show/Hide additional FontAwesome CSS"
+#~ msgstr "Göster / Gizle ek Yazı FontAwesome CSS"
+
+#~ msgid "Title short share link"
+#~ msgstr "Başlık kısa paylaşım bağlantı"
+
+#~ msgid "Here you can show/hide Share Buttons with Modal under the Title."
+#~ msgstr ""
+#~ "Burada Başlık altında Modal ile / gizlemek Hisse Düğmeleri gösterebilir ."
+
+#~ msgid "Subscribe Us"
+#~ msgstr "Bize Abone"
+
+#~ msgid ""
+#~ "Get more statistics, with Melibu WP hits. Learn which share button is "
+#~ "clicked the most."
+#~ msgstr ""
+#~ "Melibu WP hit ile daha fazla istatistik, olsun. en çok tıklanan hangi "
+#~ "paylaş düğmesi öğrenin."
+
+#~ msgid ""
+#~ "Not Want that one of the social networks is displayed, then remove it "
+#~ "from the short code."
+#~ msgstr ""
+#~ "Eeğer sosyal ağlardan biri görüntülenmediğini isterseni, kısa koddan "
+#~ "çıkarın."
+
+#~ msgid "In this example googleplus was removed so it is not displayed."
+#~ msgstr "Bu örnekte google artı görüntülenmez çünkü çıkarıldı."
+
+#~ msgid ""
+#~ "That is the short code. You can copy a short code and place on a page, "
+#~ "post or in a widget. Or use the short code has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Bu kısa bir koddur. Kısa bir kodu kopyalayın ve bir sayfa, yazı veya bir "
+#~ "widget yerleştirebilirsiniz. Ya da kısa kod editörü entegre edilmiştir "
+#~ "kullanmak, bir tık yeterli ve parça düğmeleri sonra görünür kaydedin."
+
+#~ msgid "Use Share in WP Editor"
+#~ msgstr "WP Düzenleyicisi'nde Paylaş kullanın"
+
+#~ msgid "Use Subscribe in WP Editor"
+#~ msgstr "WP Düzenleyicisi'nde abone kullanın"
+
+#~ msgid "Use MB Social Share Widget"
+#~ msgstr "MB Social Share Widget kullanın"
+
+#~ msgid "Take the parts so that your widget users can share your content"
+#~ msgstr "Widget kullanıcıların içerik paylaşmak, böylece parçalar alın"
+
+#~ msgid "Use MB Social Subscribe Widget"
+#~ msgstr "MB Sosyal Widget Abone kullanın"
+
+#~ msgid ""
+#~ "Use the Subscribe widget to your users on your social networks to conduct"
+#~ msgstr "Sosyal ağlardaki kullanıcılara Widget abone kullanın"
+
+#~ msgid "Very recommendable item: "
+#~ msgstr "Çok tavsiye edileçek:"
+
+#~ msgid "19 Awesome Designs, choose your style"
+#~ msgstr "19 Başar Tasarımlar, tarzınızı seçin"
+
+#~ msgid "Extra Settings"
+#~ msgstr "Ekstra Ayarlar"
+
+#~ msgid "Google+ plus"
+#~ msgstr "Google+ artı"
+
+#~ msgid "Activate this to share qickly"
+#~ msgstr "Hızla paylaşmak için bu etkinleştirin"
+
+#~ msgid "+ Premium"
+#~ msgstr "+ Premium"
+
+#~ msgid "Outputs"
+#~ msgstr "Çıkışlar"
+
+#~ msgid "Find Us"
+#~ msgstr "Bizi bul"
+
+#~ msgid "A MeliBu WordPress Widget by Professionals Developers."
+#~ msgstr "Uzmanları Geliştiriciler tarafından bir MeliBu WordPress Widget."
+
+#~ msgid "Click to Edit and Double Click to copy"
+#~ msgstr "Düzenleme için tıklayın ve çift kopyalamak için"
+
+#~ msgid "Extra"
+#~ msgstr "Ekstra"
+
+#~ msgid "Select:"
+#~ msgstr "Seçin:"
+
+#~ msgid "Click to Edit and Double Click to copy."
+#~ msgstr "Düzenleme için tıklayın ve kopyalamak için iki kere tıklayın."
+
+#~ msgid "Here you can show/hide FontAwesome CSS"
+#~ msgstr "Burada FontAwesome CSS gizleyebilirsiniz"
+
+#~ msgid "Shortcode"
+#~ msgstr "Kısa kod"
+
+#~ msgid "More "
+#~ msgstr "Daha"
+
+#~ msgid "Turn Off"
+#~ msgstr "Kapat"
+
+#~ msgid "MeliBu Plugin -> Sharing Social Safe"
+#~ msgstr "Sosyal Güvenli Paylaşım"
+
+#~ msgid "Melibu Plugin"
+#~ msgstr "Melibu Eklentisi"
+
+#~ msgid "Welcome to Melibu"
+#~ msgstr "Melibuya Hoşgeldiniz"
+
+#~ msgid "Important Links"
+#~ msgstr "Önemli Linkler"
+
+#~ msgid "In like please give MeliBu WP Sharing Social Safe"
+#~ msgstr "Beyendiyseniz MeliBu WP Paylaşımı Sosyal Güvenli’ye destek verin"
+
+#~ msgid "Less loading time"
+#~ msgstr "Az yükleme süresi"
+
+#~ msgid "Make your page more quickly"
+#~ msgstr "Sayfanizi daha hizli yapin"
+
+#~ msgid "Development is fueled by your praise and feedback."
+#~ msgstr "Kalkınma için övgü ve geribildirim ile körüklenmektedir."
+
+#~ msgid "MB Special Shining Dark"
+#~ msgstr "MB Özel Parlıyor Koyu"
+
+#~ msgid "MB Flat Circle"
+#~ msgstr "MB Düz Daire"
+
+#~ msgid "MB Default Flat Long"
+#~ msgstr "MB Düz uzun (Varsayılan)"
+
+#~ msgid "Very recommendable items: "
+#~ msgstr "Çok tavsiye öğeler:"
+
+#~ msgid "MeliBu Plugin -> Sahring Social Safe"
+#~ msgstr "MeliBu Plugin ->Sosyal Güvenli Paylaşım"
+
+#~ msgid ""
+#~ "The instance is when individual always different and duplicate the same, "
+#~ "that is must if they offer a file with the same URL to download the "
+#~ "instance be the same."
+#~ msgstr ""
+#~ "Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+#~ "einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten "
+#~ "auf einer Seite mehrere gleiche downloads verwenden, dann muss die "
+#~ "Instanz und die download URL gleich sein."
+
+#~ msgid ""
+#~ "When issues, problems, or even encouraging and have criticism contact ish "
+#~ "to the Support."
+#~ msgstr ""
+#~ "Wenn Sie fragen, Probleme oder auch Anregung, Kritik haben wenden Sie "
+#~ "sich bitte an den Support."
+
+#~ msgid "file url"
+#~ msgstr "Datei url"
+
+#~ msgid "file name"
+#~ msgstr "Datei name"
+
+#~ msgid "file type"
+#~ msgstr "Datei typ"
+
+#~ msgid "file size"
+#~ msgstr "Datei größe"
+
+#~ msgid "file last access"
+#~ msgstr "Letzter Datei zugriff"
+
+#~ msgid "<strong>Label Backgroundcolor</strong>"
+#~ msgstr "<strong>Label Hintergrungfarbe</strong>"
+
+#~ msgid ""
+#~ "<small>You can delete the actually image, save without select a image.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>Sie können das aktuelle Bild löschen, in dem Sie einfach ohne ein "
+#~ "Bild auszuwählen Speichern..</small>"
+
+#~ msgid "<strong>Choose your Layout</strong>"
+#~ msgstr "<strong>Wählen Sie Ihr Layout</strong>"
+
+#~ msgid "<strong>Choose with or without info label</strong>"
+#~ msgstr "<strong>Wählen Sie ob mit oder ohne label</strong>"
+
+#~ msgid "MeliBu Plugin -> Download Counter Button"
+#~ msgstr "MeliBu Plugin -> Donwload Counter Button"
+
+#~ msgid "<strong>Button Backgroundcolor</strong>"
+#~ msgstr "<strong>Schaltfläche hintergrundfarbe</strong>"
+
+#~ msgid "<strong>Icon Backgroundcolor</strong>"
+#~ msgstr "<strong>Symbol hintergrundfarbe</strong>"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "First"
+#~ msgstr "Erste"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Go"
+#~ msgstr "Vor"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Last"
+#~ msgstr "Letzte"
+
+#~ msgid "Colors & Image"
+#~ msgstr "Farben & Bild"
+
+#~ msgid "Here you can set the colors and a download image."
+#~ msgstr "Hier können Sie die Farben und ein Bild festlegen."
+
+#~ msgid "Here you have to set the option, the possibility."
+#~ msgstr "Hier können Sie die Sichtbarkeit des Labels und Farbe einstellen."
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Author:"
+#~ msgstr "Autor"
+
+#~ msgid "Marketing:"
+#~ msgstr "Marketing"
+
+#~ msgid "Developer:"
+#~ msgstr "Entwickler"
+
+#~ msgid "MeliBu WP Download Counter Button"
+#~ msgstr "MeliBu WP Downloads zähler"
+
+#~ msgid ""
+#~ "This Plugin help Developer or other to set a Download button for a file "
+#~ "with Counter and informations."
+#~ msgstr ""
+#~ "Dieses Plugin wurde entwickelt um entwicklern als auch anderen Benutzern "
+#~ "behilflich zu sein."

@@ -1,0 +1,145 @@
+
+.mb-plugin-sss-bitly-oauth {
+
+    content: ""; 
+    visibility: hidden;
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    z-index: 9999;
+    background: rgba(0,0,0,.6);
+    .transition(all .1s ease);
+    .box-sizing();
+
+    .mb-plugin-sss-bitly-oauth-dialog {
+
+        position: fixed; 
+        top: -100%;
+        left: 40%; 
+        z-index: 11; 
+        width: 90%;
+        max-height: 90%;
+        margin: 0 0 0 -35%;
+        border: @gray solid 1px;
+        background: #fefefe;
+
+        .border-radius(5px);
+        .transition-transform(~"0.3s ease-out");
+        .transition(all .3s ease);
+        .translate(0, 0); 
+        .box-sizing();
+    }
+
+    .mb-plugin-sss-bitly-oauth-body {
+
+        margin: 0 auto;
+        padding: @space/2;
+        text-align: center;
+        max-width: 50%;
+
+        p {
+
+            margin: 0;
+            padding: 0;
+        }
+
+        .mb-plugin-sss-bitly-oauth-errors {
+
+            overflow: hidden;
+            width: 100%;
+            margin: 0 auto;
+            color: red;
+            .box-sizing();
+        }
+    }
+
+    .mb-plugin-sss-bitly-oauth-header,
+    .mb-plugin-sss-bitly-oauth-footer {
+
+        padding: @space/4 @space/2;
+    }
+
+    .mb-plugin-sss-bitly-oauth-header {
+
+        border-bottom: @gray-lighter solid 1px;
+
+        h3 {
+
+            font-size: 2rem;
+            text-align: center;
+        }
+    }
+
+    .mb-plugin-sss-bitly-oauth-footer {
+
+        overflow:hidden;
+        border-top: @gray-lighter solid 1px;
+        text-align: right;
+
+        .mb-plugin-sss-bitly-oauth-abort {
+
+            display: inline-block;
+            font-size: 13px;
+            line-height: 26px;
+            height: 25px;
+            margin: 0;
+            padding: 0 10px 1px;
+            color: #fff;
+            text-decoration: none;
+            cursor: pointer;
+            background-color: #d83c22;
+            border: 1px solid #c93f27;
+            text-shadow: 0 -1px 1px #c93f27, 1px 0 1px #c93f27, 0 1px 1px #c93f27, -1px 0 1px #c93f27;
+            .box-shadow(0 1px 0 #d83c22);
+            .opacity(.8);
+
+            &:hover {
+
+                .opacity(1);
+            }
+
+            i {
+
+                color: #fbfbfb;
+            }
+
+            a {
+
+                color: #fbfbfb;
+                text-shadow: 0 1px 0 #c93f27;
+            }
+        }
+    }
+}
+
+.mb-plugin-sss-bitly-oauth-button {
+    
+    display: inline-block;
+    width: auto;
+    min-height: 35px;
+    padding: 0.9em 1.37em;
+    background: rgba(238,97,35,.6);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-shadow: none;
+    text-decoration: none;
+    border-radius: 0.2em;
+    border: rgba(0,0,0,.05) 0.1em solid;
+    cursor: pointer;
+    
+    .box-sizing();
+    .transition(~"background 0.3s ease, border-color 0.3s ease");
+
+    &:hover {
+
+        background: rgba(238,97,35,1);
+        color: #fff;
+        text-decoration: none;
+    }
+}
